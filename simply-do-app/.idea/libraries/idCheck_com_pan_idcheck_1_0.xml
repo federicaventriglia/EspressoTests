@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="idCheck.com.pan.idcheck-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/idCheck/build/libs/com.pan.idcheck-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

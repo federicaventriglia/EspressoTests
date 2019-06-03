@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 17 18:29:39 CEST 2019
+0.baseType=DIRECTORY
+0.base=/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+0.path=classes.dex
+0.set=DEX
+count=1

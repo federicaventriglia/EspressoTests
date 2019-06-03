@@ -1,1 +1,2 @@
-include ':BMI'
+include ':BMI', ':idCheck'
+include 'lint-rules'

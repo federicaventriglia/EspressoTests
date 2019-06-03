@@ -34,12 +34,12 @@ public class BMIMain extends AppCompatActivity {
             // get the references to the widgets
 
 
-            EditText weightNum = (EditText)findViewById(R.id.weightNum);
-            EditText heightNum = (EditText)findViewById(R.id.heightNum);
-            TextView resultLabel = (TextView)findViewById(R.id.resultLabel);
+            EditText weightNum = findViewById(R.id.weightNum);
+            EditText heightNum = findViewById(R.id.heightNum);
+            TextView resultLabel = findViewById(R.id.resultLabel);
 
-            Spinner weightSpinner = (Spinner)findViewById(R.id.weightSpinner);
-            Spinner heightSpinner = (Spinner)findViewById(R.id.heightSpinner);
+            Spinner weightSpinner = findViewById(R.id.weightSpinner);
+            Spinner heightSpinner = findViewById(R.id.heightSpinner);
             String weightSpinnerString = weightSpinner.getSelectedItem().toString();
             String heightSpinnerString = heightSpinner.getSelectedItem().toString();
 
@@ -90,7 +90,7 @@ public class BMIMain extends AppCompatActivity {
     // the formula to calculate the BMI index
     private double calculateBMI (double weight, double height) {
         // convert values to metric
-            return (double) (((weight / 2.2046) / (height * 0.0254)) / (height * 0.0254));
+            return (((weight / 2.2046) / (height * 0.0254)) / (height * 0.0254));
     }
 
     // interpret what BMI means

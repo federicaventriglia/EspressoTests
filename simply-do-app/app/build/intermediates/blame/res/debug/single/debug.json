@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-hdpi_star.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-hdpi/star.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_lists.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/lists.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_list_entry.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/list_entry.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/xml_settings.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_restore_entry.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/restore_entry.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_item_edit.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/item_edit.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_item_entry.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/item_entry.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-ldpi_star_inactive.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-ldpi/star_inactive.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-hdpi_star_inactive.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-hdpi/star_inactive.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_items.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/items.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-ldpi_star.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-ldpi/star.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/layout_list_edit.xml.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/layout/list_edit.xml"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-mdpi_star.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-mdpi/star.png"
+    },
+    {
+        "merged": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/res/merged/debug/drawable-mdpi_star_inactive.png.flat",
+        "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/drawable-mdpi/star_inactive.png"
+    }
+]

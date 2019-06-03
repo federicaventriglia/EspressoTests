@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/BMI_Calculator-master.iml" filepath="$PROJECT_DIR$/BMI_Calculator-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idCheck/idCheck.iml" filepath="$PROJECT_DIR$/idCheck/idCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lint-rules/lint-rules.iml" filepath="$PROJECT_DIR$/lint-rules/lint-rules.iml" />
     </modules>
   </component>
 </project>
