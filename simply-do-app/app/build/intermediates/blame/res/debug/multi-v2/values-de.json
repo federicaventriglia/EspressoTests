@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "outputFile": "/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
-                    "source": "/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app/app/src/main/res/values-de/strings.xml",
+                    "source": "/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/values-de/strings.xml",
                     "from": {
                         "startLines": "22,27,4,9,14,18,99,100,101,102,108,111,2,36,38,37,35,107,72,74,73,71,78,77,76,92,90,89,93,91,88,113,67,69,68,66,82,81,80,97,96,95,112,32,43,42,41,40,106,84,85,86,52,49,50,53,51,46,48,47,45,33,58,57,63,62,61,59,60,56,55,64,3,105,104,110,109",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1",

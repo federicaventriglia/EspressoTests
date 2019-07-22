@@ -1,0 +1,35 @@
+07-22 17:00:32.749 info TestRunner started: createListC3(kdk.android.simplydo.C3.CreateListC3)
+07-22 17:00:32.760 info MonitoringInstr Activities that are still in CREATED to STOPPED: 0
+07-22 17:00:32.762 warn ActivityTestRule getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+07-22 17:00:32.807 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@d342e2 in: PRE_ON_CREATE
+07-22 17:00:32.807 verbose SimplyDo SimplyDoActivity.onCreate() called
+07-22 17:00:32.865 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Entered
+07-22 17:00:32.884 verbose SimplyDo CachingDataView.fetchLists(): Entered
+07-22 17:00:32.909 debug SimplyDo fetchLists returned 7 items
+07-22 17:00:32.913 verbose SimplyDo CachingDataView.fetchLists(): Exited
+07-22 17:00:32.914 debug SimplyDo SimplyDoActivity.onCreate()
+07-22 17:00:32.928 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@d342e2 in: CREATED
+07-22 17:00:32.931 verbose SimplyDo SimplyDoActivity.onStart(): called
+07-22 17:00:32.933 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@d342e2 in: STARTED
+07-22 17:00:32.939 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@d342e2 in: RESUMED
+07-22 17:00:33.104 verbose SimplyDo SimplyDoActivity.onCreateOptionsMenu() called
+07-22 17:00:33.105 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:00:33.120 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:00:33.197 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddListEditText and with content description: is "addlistedittext" and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:33.331 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddListEditText and with content description: is "addlistedittext" and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:33.337 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:33.346 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddListButton and with text: is "Add" and with content description: is "Add" and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:33.405 debug SimplyDo Insert list List
+07-22 17:00:33.472 debug SimplyDo fetchLists returned 8 items
+07-22 17:00:33.779 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddListEditText and with content description: is "addlistedittext" and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:33.847 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddListEditText and with content description: is "addlistedittext" and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:33.849 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:33.855 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddListButton and with text: is "Add" and with content description: is "Add" and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:33.904 debug SimplyDo Insert list List2
+07-22 17:00:33.958 debug SimplyDo fetchLists returned 9 items
+07-22 17:00:33.986 info zygote Do full code cache collection, code=990KB, data=635KB
+07-22 17:00:33.992 info zygote After code cache collection, code=981KB, data=569KB
+07-22 17:00:34.241 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@d342e2 in: PAUSED
+07-22 17:00:34.241 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@406a28
+07-22 17:00:34.241 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@406a28
+07-22 17:00:34.280 info TestRunner finished: createListC3(kdk.android.simplydo.C3.CreateListC3)

@@ -1,0 +1,139 @@
+07-22 17:00:37.518 info TestRunner started: sortItemsC5(kdk.android.simplydo.C5.SortItemsC5)
+07-22 17:00:37.530 info MonitoringInstr Activities that are still in CREATED to STOPPED: 0
+07-22 17:00:37.533 warn ActivityTestRule getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+07-22 17:00:37.582 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: PRE_ON_CREATE
+07-22 17:00:37.582 verbose SimplyDo SimplyDoActivity.onCreate() called
+07-22 17:00:37.592 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Entered
+07-22 17:00:37.617 verbose SimplyDo CachingDataView.fetchLists(): Entered
+07-22 17:00:37.626 debug SimplyDo fetchLists returned 19 items
+07-22 17:00:37.627 verbose SimplyDo CachingDataView.fetchLists(): Exited
+07-22 17:00:37.627 debug SimplyDo SimplyDoActivity.onCreate()
+07-22 17:00:37.631 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: CREATED
+07-22 17:00:37.632 verbose SimplyDo SimplyDoActivity.onStart(): called
+07-22 17:00:37.632 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: STARTED
+07-22 17:00:37.632 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: RESUMED
+07-22 17:00:37.714 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:37.745 verbose SimplyDo SimplyDoActivity.onCreateOptionsMenu() called
+07-22 17:00:37.745 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:00:37.794 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddListEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:37.819 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddListEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:37.820 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:37.823 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddListButton and with text: is "Add" and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:37.869 debug SimplyDo Insert list List
+07-22 17:00:37.886 debug SimplyDo fetchLists returned 20 items
+07-22 17:00:38.128 info ViewInteraction Performing 'load adapter data' action on view (with id: kdk.android.simplydo:id/ListsListView and Child at position 1 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content)))
+07-22 17:00:38.146 info ViewInteraction Performing 'single click' action on view  displaying data matching: ANYTHING within adapter view matching: (with id: kdk.android.simplydo:id/ListsListView and Child at position 1 in parent (with id: kdk.android.simplydo:id/listsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content)))
+07-22 17:00:38.254 verbose SimplyDo ListsListReactor.onItemClick()
+07-22 17:00:38.256 debug SimplyDo fetchItems returned 5 items
+07-22 17:00:38.776 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddItemEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:38.795 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddItemEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:38.796 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:38.799 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddItemButton and with text: is "Add" and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:38.843 verbose SimplyDo DataManager.createItem(): Insert item A
+07-22 17:00:38.853 debug SimplyDo DataManager.createItem(): Inserted item and got id 13
+07-22 17:00:39.082 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddItemEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:39.110 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddItemEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:39.115 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:39.118 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddItemButton and with text: is "Add" and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:39.168 verbose SimplyDo DataManager.createItem(): Insert item B
+07-22 17:00:39.182 debug SimplyDo DataManager.createItem(): Inserted item and got id 14
+07-22 17:00:39.416 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddItemEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:39.435 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddItemEditText and Child at position 0 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:39.437 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:39.440 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddItemButton and with text: is "Add" and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 1 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+07-22 17:00:39.489 verbose SimplyDo DataManager.createItem(): Insert item D
+07-22 17:00:39.504 debug SimplyDo DataManager.createItem(): Inserted item and got id 15
+07-22 17:00:39.755 info ViewInteraction Performing 'Handle transition between action bar and action bar context.' action on view is a root view.
+07-22 17:00:39.760 info ViewInteraction Performing 'single click' action on view ((is displayed on the screen to the user and with content description: is "More options") or (is displayed on the screen to the user and with class name: a string ending with "OverflowMenuButton"))
+07-22 17:00:39.805 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:00:39.881 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.884 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.909 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.918 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.928 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.938 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.981 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.986 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:39.999 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.003 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.015 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.021 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.031 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.035 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.050 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.053 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.066 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.070 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.086 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.091 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.106 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.111 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.121 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.126 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.139 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.142 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.158 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.163 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.409 info ViewInteraction Performing 'single click' action on view (with id: android:id/title and with text: is "Sort Now" and Child at position 0 in parent Child at position 0 in parent has parent matching: Child at position 0 in parent with class name: is "android.widget.PopupWindow$PopupBackgroundView" and is displayed on the screen to the user)
+07-22 17:00:40.456 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.515 verbose SimplyDo SimplyDoActivity.onMenuItemSelected() called
+07-22 17:00:40.536 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.546 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.561 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.566 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.695 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: PAUSED
+07-22 17:00:40.695 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@ab06a4c
+07-22 17:00:40.695 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@ab06a4c
+07-22 17:00:40.720 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.725 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.728 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: STOPPED
+07-22 17:00:40.729 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@ab06a4c
+07-22 17:00:40.729 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@ab06a4c
+07-22 17:00:40.729 verbose SimplyDo SimplyDoActivity.onDestroy() called
+07-22 17:00:40.729 verbose SimplyDo CachingDataView.close(): Entered
+07-22 17:00:40.729 debug SimplyDo CachingDataView.close(): Close interrupt required
+07-22 17:00:40.729 debug SimplyDo CachingDataViewer.dbUpdateLoop(): interrupt exit
+07-22 17:00:40.729 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Exit
+07-22 17:00:40.729 verbose SimplyDo CachingDataView.close(): Exit
+07-22 17:00:40.729 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@8de43c in: DESTROYED
+07-22 17:00:40.729 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@ab06a4c
+07-22 17:00:40.729 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@ab06a4c
+07-22 17:00:40.760 error Surface getSlotFromBufferLocked: unknown buffer: 0xae6c4c20
+07-22 17:00:40.773 error WindowManager android.view.WindowLeaked: Activity kdk.android.simplydo.SimplyDoActivity has leaked window android.widget.PopupWindow$PopupDecorView{b60edc6 V.E...... ........ 0,0-294,216} that was originally added here
+07-22 17:00:40.773 error WindowManager 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:368)
+07-22 17:00:40.773 error WindowManager 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:299)
+07-22 17:00:40.773 error WindowManager 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:85)
+07-22 17:00:40.773 error WindowManager 	at android.widget.PopupWindow.invokePopup(PopupWindow.java:1258)
+07-22 17:00:40.773 error WindowManager 	at android.widget.PopupWindow.showAsDropDown(PopupWindow.java:1110)
+07-22 17:00:40.773 error WindowManager 	at android.widget.ListPopupWindow.show(ListPopupWindow.java:658)
+07-22 17:00:40.773 error WindowManager 	at com.android.internal.view.menu.MenuPopupHelper.tryShow(MenuPopupHelper.java:170)
+07-22 17:00:40.773 error WindowManager 	at android.widget.ActionMenuPresenter$OpenOverflowRunnable.run(ActionMenuPresenter.java:997)
+07-22 17:00:40.773 error WindowManager 	at android.os.Handler.handleCallback(Handler.java:739)
+07-22 17:00:40.773 error WindowManager 	at android.os.Handler.dispatchMessage(Handler.java:95)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.base.Interrogator.loopAndInterrogate(Interrogator.java:148)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.base.UiControllerImpl.loopUntil(UiControllerImpl.java:462)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.base.UiControllerImpl.loopUntil(UiControllerImpl.java:421)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.base.UiControllerImpl.injectMotionEvent(UiControllerImpl.java:235)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.action.MotionEvents.sendUp(MotionEvents.java:140)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.action.MotionEvents.sendUp(MotionEvents.java:123)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.action.Tap.sendSingleTap(Tap.java:170)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.action.Tap.access$100(Tap.java:31)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.action.Tap$1.sendTap(Tap.java:47)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.action.GeneralClickAction.perform(GeneralClickAction.java:136)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.ViewInteraction$SingleExecutionViewAction.perform(ViewInteraction.java:356)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:248)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.ViewInteraction.access$100(ViewInteraction.java:63)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.ViewInteraction$1.call(ViewInteraction.java:153)
+07-22 17:00:40.773 error WindowManager 	at android.support.test.espresso.ViewInteraction$1.call(ViewInteraction.java:150)
+07-22 17:00:40.773 error WindowManager 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+07-22 17:00:40.773 error WindowManager 	at android.os.Handler.handleCallback(Handler.java:739)
+07-22 17:00:40.773 error WindowManager 	at android.os.Handler.dispatchMessage(Handler.java:95)
+07-22 17:00:40.773 error WindowManager 	at android.os.Looper.loop(Looper.java:148)
+07-22 17:00:40.773 error WindowManager 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+07-22 17:00:40.773 error WindowManager 	at java.lang.reflect.Method.invoke(Native Method)
+07-22 17:00:40.773 error WindowManager 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+07-22 17:00:40.773 error WindowManager 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+07-22 17:00:40.776 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:40.780 error Surface getSlotFromBufferLocked: unknown buffer: 0xae6c4360
+07-22 17:00:40.782 debug OpenGLRenderer endAllStagingAnimators on 0xa13d7500 (ListPopupWindow$DropDownListView) with handle 0xae478590
+07-22 17:00:40.795 info TestRunner finished: sortItemsC5(kdk.android.simplydo.C5.SortItemsC5)

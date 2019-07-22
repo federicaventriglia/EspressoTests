@@ -1,0 +1,48 @@
+07-22 17:00:01.901 info TestRunner started: checkItemC2(kdk.android.simplydo.C2.CheckItemC2)
+07-22 17:00:01.932 info MonitoringInstr Activities that are still in CREATED to STOPPED: 0
+07-22 17:00:01.967 warn ActivityTestRule getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+07-22 17:00:02.130 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@17f9df7 in: PRE_ON_CREATE
+07-22 17:00:02.130 verbose SimplyDo SimplyDoActivity.onCreate() called
+07-22 17:00:02.153 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Entered
+07-22 17:00:02.159 verbose SimplyDo CachingDataView.fetchLists(): Entered
+07-22 17:00:02.163 debug SimplyDo fetchLists returned 1 items
+07-22 17:00:02.163 verbose SimplyDo CachingDataView.fetchLists(): Exited
+07-22 17:00:02.164 debug SimplyDo SimplyDoActivity.onCreate()
+07-22 17:00:02.164 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@17f9df7 in: CREATED
+07-22 17:00:02.165 verbose SimplyDo SimplyDoActivity.onStart(): called
+07-22 17:00:02.165 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@17f9df7 in: STARTED
+07-22 17:00:02.166 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@17f9df7 in: RESUMED
+07-22 17:00:02.233 debug EGL_emulation eglMakeCurrent: 0xae654c00: ver 3 0 (tinfo 0xae64b390)
+07-22 17:00:02.256 verbose SimplyDo SimplyDoActivity.onCreateOptionsMenu() called
+07-22 17:00:02.256 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:00:02.310 info ViewInteraction Performing 'replace text' action on view (with id: kdk.android.simplydo:id/AddListEditText and with content description: is "addlistedittext" and is displayed on the screen to the user)
+07-22 17:00:02.332 info ViewInteraction Performing 'close keyboard' action on view (with id: kdk.android.simplydo:id/AddListEditText and with content description: is "addlistedittext" and is displayed on the screen to the user)
+07-22 17:00:02.335 warn CloseKeyboardAction Attempting to close soft keyboard, while it is not shown.
+07-22 17:00:02.343 info ViewInteraction Performing 'single click' action on view (with id: kdk.android.simplydo:id/AddListButton and with text: is "Add" and with content description: is "Add" and is displayed on the screen to the user)
+07-22 17:00:02.388 debug SimplyDo Insert list List
+07-22 17:00:02.401 debug SimplyDo fetchLists returned 2 items
+07-22 17:00:02.722 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@17f9df7 in: PAUSED
+07-22 17:00:02.722 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@7e10898
+07-22 17:00:02.722 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@7e10898
+07-22 17:00:02.757 info TestRunner failed: checkItemC2(kdk.android.simplydo.C2.CheckItemC2)
+07-22 17:00:02.758 info TestRunner ----- begin exception -----
+07-22 17:00:02.763 info TestRunner android.support.test.espresso.AmbiguousViewMatcherException: '(with class name: is "android.widget.LinearLayout" and is displayed on the screen to the user)' matches multiple views in the hierarchy.
+07-22 17:00:02.763 info TestRunner Problem views are marked with '****MATCHES****' below.
+07-22 17:00:02.763 info TestRunner View Hierarchy:
+07-22 17:00:02.763 info TestRunner +>DecorView{id=-1, visibility=VISIBLE, width=720, height=1280, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=WM.LayoutParams{(0,0)(fillxfill) sim=#3 ty=1 fl=#81810100 wanim=0x1030383 needsMenuKey=2}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3} 
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +->ActionBarOverlayLayout{id=16909230, res-name=decor_content_parent, visibility=VISIBLE, width=720, height=1208, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4fc74c6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} 
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +-->FrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=720, height=1088, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=com.android.internal.widget.ActionBarOverlayLayout$LayoutParams@2363c87, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=120.0, child-count=1} 
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +--->LinearLayout{id=-1, visibility=VISIBLE, width=720, height=1088, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@7f21fdd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1} ****MATCHES****
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +---->ViewSwitcher{id=2130903049, res-name=ListsItemsSwitcher, visibility=VISIBLE, width=720, height=222, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@1301a23, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} 
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +----->LinearLayout{id=2130903059, res-name=listsView, visibility=VISIBLE, width=720, height=222, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@75dcd9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} ****MATCHES****
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +------>LinearLayout{id=2130903048, res-name=LinearLayout01, visibility=VISIBLE, width=720, height=72, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e7da94c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} ****MATCHES****
+07-22 17:00:02.763 info TestRunner |
+07-22 17:00:02.763 info TestRunner +------->EditText{id=2130903043, res-name=AddListEditText, desc=addlistedittext, visibility=VISIBLE, width=588, height=72, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=true, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@1de6d95, tag=null, root-is-layout-requested=false, has-input-connection=true, editor-info=[inputType=0x31 imeOptions=0x8000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=New List Name label=nul
+07-22 17:00:02.763 info TestRunner ----- end exception -----
+07-22 17:00:02.764 info TestRunner finished: checkItemC2(kdk.android.simplydo.C2.CheckItemC2)

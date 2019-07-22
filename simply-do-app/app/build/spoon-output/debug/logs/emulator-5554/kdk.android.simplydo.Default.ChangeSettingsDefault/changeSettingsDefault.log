@@ -1,0 +1,142 @@
+07-22 17:01:28.118 info TestRunner started: changeSettingsDefault(kdk.android.simplydo.Default.ChangeSettingsDefault)
+07-22 17:01:28.121 info MonitoringInstr Activities that are still in CREATED to STOPPED: 0
+07-22 17:01:28.122 warn ActivityTestRule getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+07-22 17:01:28.154 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: PRE_ON_CREATE
+07-22 17:01:28.154 verbose SimplyDo SimplyDoActivity.onCreate() called
+07-22 17:01:28.171 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Entered
+07-22 17:01:28.220 verbose SimplyDo CachingDataView.fetchLists(): Entered
+07-22 17:01:28.273 debug SimplyDo fetchLists returned 26 items
+07-22 17:01:28.274 verbose SimplyDo CachingDataView.fetchLists(): Exited
+07-22 17:01:28.274 debug SimplyDo SimplyDoActivity.onCreate()
+07-22 17:01:28.275 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: CREATED
+07-22 17:01:28.276 verbose SimplyDo SimplyDoActivity.onStart(): called
+07-22 17:01:28.277 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: STARTED
+07-22 17:01:28.279 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: RESUMED
+07-22 17:01:28.379 verbose SimplyDo SimplyDoActivity.onCreateOptionsMenu() called
+07-22 17:01:28.379 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:01:28.399 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:28.441 info ViewInteraction Performing 'Handle transition between action bar and action bar context.' action on view is a root view.
+07-22 17:01:28.445 info ViewInteraction Performing 'single click' action on view ((is displayed on the screen to the user and with content description: is "More options") or (is displayed on the screen to the user and with class name: a string ending with "OverflowMenuButton"))
+07-22 17:01:28.507 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:01:28.566 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:28.637 info chatty uid=10114(u0_a114) RenderThread identical 1 line
+07-22 17:01:28.642 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:28.826 info ViewInteraction Performing 'single click' action on view (with id: android:id/title and with text: is "Settings" and Child at position 0 in parent Child at position 0 in parent with class name: is "com.android.internal.view.menu.ListMenuItemView" and is displayed on the screen to the user)
+07-22 17:01:28.943 verbose SimplyDo SimplyDoActivity.onMenuItemSelected() called
+07-22 17:01:28.964 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: PAUSED
+07-22 17:01:28.964 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:28.964 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.011 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.019 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: PRE_ON_CREATE
+07-22 17:01:29.019 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.019 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.020 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.048 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: CREATED
+07-22 17:01:29.048 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.048 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.049 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: STARTED
+07-22 17:01:29.049 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.049 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.051 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: RESUMED
+07-22 17:01:29.052 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.052 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.143 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.231 info chatty uid=10114(u0_a114) RenderThread identical 2 lines
+07-22 17:01:29.241 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.290 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.296 info chatty uid=10114(u0_a114) RenderThread identical 1 line
+07-22 17:01:29.313 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.315 debug OpenGLRenderer endAllActiveAnimators on 0x91c06f00 (MenuPopupWindow$MenuDropDownListView) with handle 0x9010c940
+07-22 17:01:29.394 info ViewInteraction Performing 'load adapter data' action on view (with id: android:id/list and Child at position 0 in parent with class name: is "android.widget.LinearLayout")
+07-22 17:01:29.402 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.405 info ViewInteraction Performing 'single click' action on view  displaying data matching: ANYTHING within adapter view matching: (with id: android:id/list and Child at position 0 in parent with class name: is "android.widget.LinearLayout")
+07-22 17:01:29.547 verbose SimplyDo onPreferenceTreeClick() for key listSorting
+07-22 17:01:29.707 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.717 info chatty uid=10114(u0_a114) RenderThread identical 1 line
+07-22 17:01:29.737 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.745 verbose SimplyDo SimplyDoActivity.onSaveInstanceState() called
+07-22 17:01:29.749 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: STOPPED
+07-22 17:01:29.749 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.749 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:29.773 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.817 info chatty uid=10114(u0_a114) RenderThread identical 1 line
+07-22 17:01:29.827 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.902 info ViewInteraction Performing 'load adapter data' action on view (with class name: is "com.android.internal.app.AlertController$RecycleListView" and Child at position 0 in parent with class name: is "android.widget.FrameLayout")
+07-22 17:01:29.935 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:29.936 info ViewInteraction Performing 'single click' action on view  displaying data matching: ANYTHING within adapter view matching: (with class name: is "com.android.internal.app.AlertController$RecycleListView" and Child at position 0 in parent with class name: is "android.widget.FrameLayout")
+07-22 17:01:29.993 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.017 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.080 info chatty uid=10114(u0_a114) RenderThread identical 4 lines
+07-22 17:01:30.109 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.363 info ViewInteraction Performing 'load adapter data' action on view (with id: android:id/list and Child at position 0 in parent with class name: is "android.widget.LinearLayout")
+07-22 17:01:30.408 info ViewInteraction Performing 'single click' action on view  displaying data matching: ANYTHING within adapter view matching: (with id: android:id/list and Child at position 0 in parent with class name: is "android.widget.LinearLayout")
+07-22 17:01:30.548 verbose SimplyDo onPreferenceTreeClick() for key itemSorting
+07-22 17:01:30.635 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.729 info chatty uid=10114(u0_a114) RenderThread identical 4 lines
+07-22 17:01:30.737 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.796 info ViewInteraction Performing 'load adapter data' action on view (with class name: is "com.android.internal.app.AlertController$RecycleListView" and Child at position 0 in parent with class name: is "android.widget.FrameLayout")
+07-22 17:01:30.809 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.811 info ViewInteraction Performing 'single click' action on view  displaying data matching: ANYTHING within adapter view matching: (with class name: is "com.android.internal.app.AlertController$RecycleListView" and Child at position 0 in parent with class name: is "android.widget.FrameLayout")
+07-22 17:01:30.815 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:30.932 info chatty uid=10114(u0_a114) RenderThread identical 7 lines
+07-22 17:01:30.938 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:31.229 info ViewInteraction Performing 'load adapter data' action on view (with id: android:id/list and Child at position 0 in parent with class name: is "android.widget.LinearLayout")
+07-22 17:01:31.241 info ViewInteraction Performing 'single click' action on view  displaying data matching: ANYTHING within adapter view matching: (with id: android:id/list and Child at position 0 in parent with class name: is "android.widget.LinearLayout")
+07-22 17:01:31.356 verbose SimplyDo onPreferenceTreeClick() for key restoreDb
+07-22 17:01:31.373 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: PAUSED
+07-22 17:01:31.373 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.373 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.386 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: PRE_ON_CREATE
+07-22 17:01:31.386 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.386 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.386 verbose SimplyDo RestoreActivity.onCreate() called
+07-22 17:01:31.393 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: CREATED
+07-22 17:01:31.394 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.394 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.394 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: STARTED
+07-22 17:01:31.394 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.394 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.396 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: RESUMED
+07-22 17:01:31.396 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.396 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.515 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:31.532 debug OpenGLRenderer endAllActiveAnimators on 0x91ca8d00 (ListView) with handle 0x9010c490
+07-22 17:01:31.592 info ViewInteraction Performing 'send keyCode: 4, metaState: 0 key event' action on view is a root view.
+07-22 17:01:31.601 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: PAUSED
+07-22 17:01:31.602 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.602 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.615 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: RESUMED
+07-22 17:01:31.615 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.615 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.696 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:31.912 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: STOPPED
+07-22 17:01:31.912 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.912 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.912 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.RestoreActivity@6affbc6 in: DESTROYED
+07-22 17:01:31.912 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:31.912 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.017 info ViewInteraction Performing 'send keyCode: 4, metaState: 0 key event' action on view is a root view.
+07-22 17:01:32.028 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: PAUSED
+07-22 17:01:32.028 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.028 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.036 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: RESTARTED
+07-22 17:01:32.036 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.036 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.036 verbose SimplyDo SimplyDoActivity.onStart(): called
+07-22 17:01:32.037 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: STARTED
+07-22 17:01:32.037 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.037 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.037 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: RESUMED
+07-22 17:01:32.037 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.037 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.105 debug EGL_emulation eglMakeCurrent: 0xa61055a0: ver 3 0 (tinfo 0xa61032b0)
+07-22 17:01:32.383 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: STOPPED
+07-22 17:01:32.383 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.383 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.383 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@c23379b in: DESTROYED
+07-22 17:01:32.383 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.383 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.423 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@2b8e89c in: PAUSED
+07-22 17:01:32.423 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.423 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@eccf295
+07-22 17:01:32.487 info TestRunner finished: changeSettingsDefault(kdk.android.simplydo.Default.ChangeSettingsDefault)

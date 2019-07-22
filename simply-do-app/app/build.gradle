@@ -1,5 +1,32 @@
 apply plugin: 'com.android.application'
 
+apply plugin: 'spoon'
+spoon {
+    // Identifying title for this execution. ("Spoon Execution" by default)
+    title = "SimplyDo App"
+
+    // Whether or not animations are enabled. Disable animated gif generation. (false by default)
+    noAnimations = true
+
+    // Set ADB timeout. (minutes) (default is 10 mins)
+    adbTimeout = 5
+
+    // Grant all runtime permissions during installation on Marshmallow and above devices. (false by default)
+    grantAll = true
+
+    // Code coverage flag. For Spoon to calculate coverage file your app must have the `WRITE_EXTERNAL_STORAGE` permission. (false by default)
+    codeCoverage = true
+
+    // Run tests in separate instrumentation calls.
+    singleInstrumentationCall = true
+
+    // Do not fail build if a test fails, let all the tests run and finish. (false by default)
+    ignoreFailures = true
+
+    // Clear app data before each test. (false by default)
+    clearAppDataBeforeEachTest = true
+}
+
 android {
     compileSdkVersion 26
     buildToolsVersion "28.0.3"
@@ -33,5 +60,7 @@ dependencies {
     }
     androidTestImplementation 'com.android.support.test:rules:1.0.2'
     androidTestUtil 'com.android.support.test:orchestrator:1.0.2'
+    androidTestImplementation 'com.squareup.spoon:spoon-client:1.7.1'
 
 }
+

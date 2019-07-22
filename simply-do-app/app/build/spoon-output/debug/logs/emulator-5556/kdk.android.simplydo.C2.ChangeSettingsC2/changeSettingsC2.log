@@ -1,0 +1,86 @@
+07-22 16:59:59.891 info TestRunner started: changeSettingsC2(kdk.android.simplydo.C2.ChangeSettingsC2)
+07-22 16:59:59.918 info MonitoringInstr Activities that are still in CREATED to STOPPED: 0
+07-22 16:59:59.921 warn ActivityTestRule getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+07-22 16:59:59.996 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: PRE_ON_CREATE
+07-22 16:59:59.996 verbose SimplyDo SimplyDoActivity.onCreate() called
+07-22 17:00:00.013 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Entered
+07-22 17:00:00.032 verbose SimplyDo CachingDataView.fetchLists(): Entered
+07-22 17:00:00.036 debug SimplyDo fetchLists returned 1 items
+07-22 17:00:00.037 verbose SimplyDo CachingDataView.fetchLists(): Exited
+07-22 17:00:00.037 debug SimplyDo SimplyDoActivity.onCreate()
+07-22 17:00:00.037 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: CREATED
+07-22 17:00:00.039 verbose SimplyDo SimplyDoActivity.onStart(): called
+07-22 17:00:00.039 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: STARTED
+07-22 17:00:00.040 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: RESUMED
+07-22 17:00:00.123 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:00.186 verbose SimplyDo SimplyDoActivity.onCreateOptionsMenu() called
+07-22 17:00:00.186 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:00:00.242 info ViewInteraction Performing 'Handle transition between action bar and action bar context.' action on view is a root view.
+07-22 17:00:00.244 info ViewInteraction Performing 'single click' action on view ((is displayed on the screen to the user and with content description: is "More options") or (is displayed on the screen to the user and with class name: a string ending with "OverflowMenuButton"))
+07-22 17:00:00.300 verbose SimplyDo SimplyDoActivity.onPrepareOptionsMenu() called
+07-22 17:00:00.371 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:00.482 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:00.493 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:00.762 info ViewInteraction Performing 'single click' action on view (with id: android:id/title and with text: is "Settings" and is displayed on the screen to the user)
+07-22 17:00:00.871 verbose SimplyDo SimplyDoActivity.onMenuItemSelected() called
+07-22 17:00:00.910 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: PAUSED
+07-22 17:00:00.910 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.910 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.929 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@7894316 in: PRE_ON_CREATE
+07-22 17:00:00.929 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.929 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.952 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@7894316 in: CREATED
+07-22 17:00:00.952 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.952 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.953 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@7894316 in: STARTED
+07-22 17:00:00.953 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.953 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.953 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SettingsActivity@7894316 in: RESUMED
+07-22 17:00:00.953 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.953 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:00.997 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.025 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.092 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.129 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.202 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.212 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.259 debug EGL_emulation eglMakeCurrent: 0xae4d4a80: ver 3 0 (tinfo 0xae4e77e0)
+07-22 17:00:01.261 error Surface getSlotFromBufferLocked: unknown buffer: 0xae4840e0
+07-22 17:00:01.262 debug OpenGLRenderer endAllStagingAnimators on 0xa185f900 (ListPopupWindow$DropDownListView) with handle 0xaa1150d0
+07-22 17:00:01.267 error Surface getSlotFromBufferLocked: unknown buffer: 0xae483b40
+07-22 17:00:01.365 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: STOPPED
+07-22 17:00:01.365 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:01.365 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:01.365 verbose SimplyDo SimplyDoActivity.onDestroy() called
+07-22 17:00:01.365 verbose SimplyDo CachingDataView.close(): Entered
+07-22 17:00:01.365 debug SimplyDo CachingDataView.close(): Close interrupt required
+07-22 17:00:01.365 debug SimplyDo CachingDataViewer.dbUpdateLoop(): interrupt exit
+07-22 17:00:01.365 verbose SimplyDo CachingDataViewer.dbUpdateLoop(): Exit
+07-22 17:00:01.365 verbose SimplyDo CachingDataView.close(): Exit
+07-22 17:00:01.366 debug LifecycleMonitor Lifecycle status change: kdk.android.simplydo.SimplyDoActivity@b2228cc in: DESTROYED
+07-22 17:00:01.366 debug LifecycleMonitor running callback: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:01.366 debug LifecycleMonitor callback completes: android.support.test.rule.ActivityTestRule$LifecycleCallback@8df44d8
+07-22 17:00:01.383 info TestRunner failed: changeSettingsC2(kdk.android.simplydo.C2.ChangeSettingsC2)
+07-22 17:00:01.383 info TestRunner ----- begin exception -----
+07-22 17:00:01.388 info TestRunner android.support.test.espresso.AmbiguousViewMatcherException: '(with class name: is "android.widget.LinearLayout" and is displayed on the screen to the user)' matches multiple views in the hierarchy.
+07-22 17:00:01.388 info TestRunner Problem views are marked with '****MATCHES****' below.
+07-22 17:00:01.388 info TestRunner View Hierarchy:
+07-22 17:00:01.388 info TestRunner +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=1920, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=WM.LayoutParams{(0,0)(fillxfill) ty=1 fl=#81810100 wanim=0x1030383 needsMenuKey=2}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3} 
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +->ActionBarOverlayLayout{id=16909230, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=1776, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a740400, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} 
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +-->FrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=1536, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=com.android.internal.widget.ActionBarOverlayLayout$LayoutParams@49de439, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=240.0, child-count=1} 
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +--->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=1536, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@1fafbdf, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} ****MATCHES****
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +---->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=1536, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e15602c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1} ****MATCHES****
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +----->LinearLayout{id=16909198, res-name=headers, visibility=VISIBLE, width=1080, height=1536, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@43d76fb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2} ****MATCHES****
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +------>ListView{id=16908298, res-name=list, visibility=VISIBLE, width=1080, height=1536, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=true, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@98e5318, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=6} 
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +------->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=161, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.AbsListView$LayoutParams@6a188c4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3} ****MATCHES****
+07-22 17:00:01.388 info TestRunner |
+07-22 17:00:01.388 info TestRunner +-------->LinearLayout{id=16909195, res-name=icon_frame, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout
+07-22 17:00:01.388 info TestRunner ----- end exception -----
+07-22 17:00:01.391 info TestRunner finished: changeSettingsC2(kdk.android.simplydo.C2.ChangeSettingsC2)
