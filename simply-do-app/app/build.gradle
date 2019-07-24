@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+/*
 apply plugin: 'spoon'
 spoon {
     // Identifying title for this execution. ("Spoon Execution" by default)
@@ -25,7 +25,7 @@ spoon {
 
     // Clear app data before each test. (false by default)
     clearAppDataBeforeEachTest = true
-}
+}*/
 
 android {
     compileSdkVersion 26
@@ -60,7 +60,7 @@ dependencies {
     }
     androidTestImplementation 'com.android.support.test:rules:1.0.2'
     androidTestUtil 'com.android.support.test:orchestrator:1.0.2'
-    androidTestImplementation 'com.squareup.spoon:spoon-client:1.7.1'
+   // androidTestImplementation 'com.squareup.spoon:spoon-client:1.7.1'
 
 }
 

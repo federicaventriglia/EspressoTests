@@ -4,14 +4,14 @@ buildscript {
         lintVersion = '26.1.4'
     }
     repositories {
-        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+       // maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
         jcenter()
         google()
 
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.0'
-        classpath "com.jaredsburrows:gradle-spoon-plugin:1.5.0"
+       // classpath "com.jaredsburrows:gradle-spoon-plugin:1.5.0"
     }
 }
 
