@@ -38,7 +38,7 @@ public class CreateListsC4 {
     public ActivityTestRule<SimplyDoActivity> mActivityTestRule = new ActivityTestRule<>(SimplyDoActivity.class);
 
     @Test
-    public void createListsDefauC4() {
+    public void createListsC4() {
         ViewInteraction editText = onView(
                 allOf(ViewMatchers.withId(R.id.AddListEditText),
                         childAtPosition(

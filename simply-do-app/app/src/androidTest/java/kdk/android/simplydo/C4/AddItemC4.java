@@ -41,7 +41,7 @@ public class AddItemC4 {
     public ActivityTestRule<SimplyDoActivity> mActivityTestRule = new ActivityTestRule<>(SimplyDoActivity.class);
 
     @Test
-    public void addItemDefauC4() {
+    public void addItemC4() {
         ViewInteraction editText = onView(
                 allOf(ViewMatchers.withId(R.id.AddListEditText),
                         childAtPosition(

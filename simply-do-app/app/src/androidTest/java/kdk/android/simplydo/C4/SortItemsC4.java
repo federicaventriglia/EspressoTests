@@ -44,7 +44,7 @@ public class SortItemsC4 {
     public ActivityTestRule<SimplyDoActivity> mActivityTestRule = new ActivityTestRule<>(SimplyDoActivity.class);
 
     @Test
-    public void sortItemsDefauC4() {
+    public void sortItemsC4() {
         ViewInteraction editText = onView(
                 allOf(withId(R.id.AddListEditText),
                         childAtPosition(

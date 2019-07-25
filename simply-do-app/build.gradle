@@ -11,7 +11,8 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.0'
-       // classpath "com.jaredsburrows:gradle-spoon-plugin:1.5.0"
+        //Jacoco plugin
+        classpath 'org.jacoco:org.jacoco.core:0.8.1'
     }
 }
 

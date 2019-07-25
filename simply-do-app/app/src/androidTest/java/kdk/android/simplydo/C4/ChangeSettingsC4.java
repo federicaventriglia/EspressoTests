@@ -41,7 +41,7 @@ public class ChangeSettingsC4 {
     public ActivityTestRule<SimplyDoActivity> mActivityTestRule = new ActivityTestRule<>(SimplyDoActivity.class);
 
     @Test
-    public void changeSettingsDefauC4() {
+    public void changeSettingsC4() {
         openActionBarOverflowOrOptionsMenu(getInstrumentation().getTargetContext());
 
         ViewInteraction textView = onView(
