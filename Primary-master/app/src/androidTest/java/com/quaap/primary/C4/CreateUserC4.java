@@ -39,7 +39,7 @@ public class CreateUserC4 {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void createUserDefauC4() {
+    public void createUserC4() {
         ViewInteraction appCompatImageView = onView(
                 allOf(ViewMatchers.withId(R.id.add_list_item_button),
                         childAtPosition(

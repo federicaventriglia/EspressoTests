@@ -42,7 +42,7 @@ public class KeyboardSettingsC4 {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void keyboardSettingsDefauC4() {
+    public void keyboardSettingsC4() {
         openActionBarOverflowOrOptionsMenu(getInstrumentation().getTargetContext());
 
         ViewInteraction appCompatTextView = onView(

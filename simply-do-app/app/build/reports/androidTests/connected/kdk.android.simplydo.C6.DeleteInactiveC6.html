@@ -34,7 +34,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">3.317s</div>
+<div class="counter">0.922s</div>
 <p>duration</p>
 </div>
 </td>
@@ -66,29 +66,9 @@
 <a name="deleteInactiveC1"></a>
 <h3 class="failures">deleteInactiveC1</h3>
 <span class="code">
-<pre>android.support.test.espresso.NoMatchingViewException: No views in hierarchy found matching: (with id: kdk.android.simplydo:id/ListsListView)
-If the target view is not part of the view hierarchy, you may need to use Espresso.onData to load it from one of the following AdapterViews:android.widget.MenuPopupWindow$MenuDropDownListView{b1fdd02 VFED.VC.. .F...... 0,0-515,126}
-
-View Hierarchy:
-+&gt;PopupDecorView{id=-1, visibility=VISIBLE, width=515, height=126, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=WM.LayoutParams{(555,73)(515x126) gr=#10800033 sim=#1 ty=1002 fl=#41860200 pfl=0x18000 fmt=-3 surfaceInsets=Rect(84, 84 - 84, 84) (manual) colorMode=0}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
-|
-+-&gt;PopupBackgroundView{id=-1, visibility=VISIBLE, width=515, height=126, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@373e613, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
-|
-+--&gt;MenuDropDownListView{id=-1, visibility=VISIBLE, width=515, height=126, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=true, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4d2e249, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
-|
-+---&gt;ListMenuItemView{id=-1, visibility=VISIBLE, width=515, height=126, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.AbsListView$LayoutParams@bf0c17c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;RelativeLayout{id=-1, visibility=VISIBLE, width=431, height=57, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@fe0048b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=42.0, y=34.0, child-count=2}
-|
-+-----&gt;TextView{id=16908310, res-name=title, visibility=VISIBLE, width=431, height=57, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.RelativeLayout$LayoutParams@2467968, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=Settings, input-type=0, ime-target=false, has-links=false}
-|
-+-----&gt;TextView{id=16909259, res-name=shortcut, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.RelativeLayout$LayoutParams@f6f9181, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=, input-type=0, ime-target=false, has-links=false}
-|
-+----&gt;ImageView{id=16909319, res-name=submenuarrow, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b9c7226, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-at dalvik.system.VMStack.getThreadStackTrace(Native Method)
-at java.lang.Thread.getStackTrace(Thread.java:1536)
-at android.support.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:88)
+<pre>android.support.test.espresso.PerformException: Error performing 'load adapter data' on view '(with id: kdk.android.simplydo:id/ListsListView)'.
+at android.support.test.espresso.PerformException$Builder.build(PerformException.java:82)
+at android.support.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:79)
 at android.support.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:51)
 at android.support.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:312)
 at android.support.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:173)
@@ -100,7 +80,7 @@ at android.support.test.espresso.DataInteraction$DisplayDataMatcher.&lt;init&gt;
 at android.support.test.espresso.DataInteraction$DisplayDataMatcher.displayDataMatcher(DataInteraction.java:248)
 at android.support.test.espresso.DataInteraction.makeTargetMatcher(DataInteraction.java:150)
 at android.support.test.espresso.DataInteraction.perform(DataInteraction.java:135)
-at kdk.android.simplydo.C6.DeleteInactiveC6.deleteInactiveC1(DeleteInactiveC6.java:85)
+at kdk.android.simplydo.C6.DeleteInactiveC6.deleteInactiveC1(DeleteInactiveC6.java:63)
 at java.lang.reflect.Method.invoke(Native Method)
 at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
 at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
@@ -131,6 +111,21 @@ at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
 at android.support.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
 at android.support.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:384)
 at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2074)
+Caused by: java.lang.RuntimeException: Multiple data elements matched: ANYTHING. Elements: [Data: kdk.android.simplydo.ListDesc@343e58 (class: kdk.android.simplydo.ListDesc) token: 0, Data: kdk.android.simplydo.ListDesc@14d8bb1 (class: kdk.android.simplydo.ListDesc) token: 1, Data: kdk.android.simplydo.ListDesc@a7a9896 (class: kdk.android.simplydo.ListDesc) token: 2, Data: kdk.android.simplydo.ListDesc@ab4dc17 (class: kdk.android.simplydo.ListDesc) token: 3, Data: kdk.android.simplydo.ListDesc@adae804 (class: kdk.android.simplydo.ListDesc) token: 4, Data: kdk.android.simplydo.ListDesc@8fe31ed (class: kdk.android.simplydo.ListDesc) token: 5, Data: kdk.android.simplydo.ListDesc@1bfa822 (class: kdk.android.simplydo.ListDesc) token: 6, Data: kdk.android.simplydo.ListDesc@2122b3 (class: kdk.android.simplydo.ListDesc) token: 7, Data: kdk.android.simplydo.ListDesc@208070 (class: kdk.android.simplydo.ListDesc) token: 8, Data: kdk.android.simplydo.ListDesc@b98ffe9 (class: kdk.android.simplydo.ListDesc) token: 9, Data: kdk.android.simplydo.ListDesc@554246e (class: kdk.android.simplydo.ListDesc) token: 10, Data: kdk.android.simplydo.ListDesc@301370f (class: kdk.android.simplydo.ListDesc) token: 11, Data: kdk.android.simplydo.ListDesc@ae5339c (class: kdk.android.simplydo.ListDesc) token: 12, Data: kdk.android.simplydo.ListDesc@ff8b1a5 (class: kdk.android.simplydo.ListDesc) token: 13, Data: kdk.android.simplydo.ListDesc@da2197a (class: kdk.android.simplydo.ListDesc) token: 14, Data: kdk.android.simplydo.ListDesc@24352b (class: kdk.android.simplydo.ListDesc) token: 15, Data: kdk.android.simplydo.ListDesc@1dfed88 (class: kdk.android.simplydo.ListDesc) token: 16, Data: kdk.android.simplydo.ListDesc@5e7c321 (class: kdk.android.simplydo.ListDesc) token: 17, Data: kdk.android.simplydo.ListDesc@da85346 (class: kdk.android.simplydo.ListDesc) token: 18, Data: kdk.android.simplydo.ListDesc@82ef907 (class: kdk.android.simplydo.ListDesc) token: 19, Data: kdk.android.simplydo.ListDesc@e4a5a34 (class: kdk.android.simplydo.ListDesc) token: 20, Data: kdk.android.simplydo.ListDesc@55c705d (class: kdk.android.simplydo.ListDesc) token: 21, Data: kdk.android.simplydo.ListDesc@7865dd2 (class: kdk.android.simplydo.ListDesc) token: 22, Data: kdk.android.simplydo.ListDesc@7381ea3 (class: kdk.android.simplydo.ListDesc) token: 23, Data: kdk.android.simplydo.ListDesc@14ce5a0 (class: kdk.android.simplydo.ListDesc) token: 24, Data: kdk.android.simplydo.ListDesc@574b559 (class: kdk.android.simplydo.ListDesc) token: 25, Data: kdk.android.simplydo.ListDesc@dc8851e (class: kdk.android.simplydo.ListDesc) token: 26, Data: kdk.android.simplydo.ListDesc@a2401ff (class: kdk.android.simplydo.ListDesc) token: 27, Data: kdk.android.simplydo.ListDesc@42abbcc (class: kdk.android.simplydo.ListDesc) token: 28, Data: kdk.android.simplydo.ListDesc@7324e15 (class: kdk.android.simplydo.ListDesc) token: 29, Data: kdk.android.simplydo.ListDesc@d73d52a (class: kdk.android.simplydo.ListDesc) token: 30, Data: kdk.android.simplydo.ListDesc@dc0bf1b (class: kdk.android.simplydo.ListDesc) token: 31, Data: kdk.android.simplydo.ListDesc@f2dc8b8 (class: kdk.android.simplydo.ListDesc) token: 32, Data: kdk.android.simplydo.ListDesc@ff6b691 (class: kdk.android.simplydo.ListDesc) token: 33, Data: kdk.android.simplydo.ListDesc@cd219f6 (class: kdk.android.simplydo.ListDesc) token: 34, Data: kdk.android.simplydo.ListDesc@3a231f7 (class: kdk.android.simplydo.ListDesc) token: 35, Data: kdk.android.simplydo.ListDesc@352b864 (class: kdk.android.simplydo.ListDesc) token: 36, Data: kdk.android.simplydo.ListDesc@fbf2acd (class: kdk.android.simplydo.ListDesc) token: 37, Data: kdk.android.simplydo.ListDesc@afddf82 (class: kdk.android.simplydo.ListDesc) token: 38, Data: kdk.android.simplydo.ListDesc@8bdf693 (class: kdk.android.simplydo.ListDesc) token: 39, Data: kdk.android.simplydo.ListDesc@2b4f6d0 (class: kdk.android.simplydo.ListDesc) token: 40, Data: kdk.android.simplydo.ListDesc@f20a6c9 (class: kdk.android.simplydo.ListDesc) token: 41, Data: kdk.android.simplydo.ListDesc@c2e71ce (class: kdk.android.simplydo.ListDesc) token: 42, Data: kdk.android.simplydo.ListDesc@9c768ef (class: kdk.android.simplydo.ListDesc) token: 43, Data: kdk.android.simplydo.ListDesc@3baaffc (class: kdk.android.simplydo.ListDesc) token: 44, Data: kdk.android.simplydo.ListDesc@103e685 (class: kdk.android.simplydo.ListDesc) token: 45, Data: kdk.android.simplydo.ListDesc@ec3dcda (class: kdk.android.simplydo.ListDesc) token: 46, Data: kdk.android.simplydo.ListDesc@14ba50b (class: kdk.android.simplydo.ListDesc) token: 47, Data: kdk.android.simplydo.ListDesc@b00cfe8 (class: kdk.android.simplydo.ListDesc) token: 48, Data: kdk.android.simplydo.ListDesc@4216601 (class: kdk.android.simplydo.ListDesc) token: 49, Data: kdk.android.simplydo.ListDesc@512eca6 (class: kdk.android.simplydo.ListDesc) token: 50, Data: kdk.android.simplydo.ListDesc@b8d86e7 (class: kdk.android.simplydo.ListDesc) token: 51, Data: kdk.android.simplydo.ListDesc@8070294 (class: kdk.android.simplydo.ListDesc) token: 52, Data: kdk.android.simplydo.ListDesc@3d613d (class: kdk.android.simplydo.ListDesc) token: 53, Data: kdk.android.simplydo.ListDesc@ff12d32 (class: kdk.android.simplydo.ListDesc) token: 54, Data: kdk.android.simplydo.ListDesc@c21aa83 (class: kdk.android.simplydo.ListDesc) token: 55, Data: kdk.android.simplydo.ListDesc@9bb400 (class: kdk.android.simplydo.ListDesc) token: 56, Data: kdk.android.simplydo.ListDesc@b23d439 (class: kdk.android.simplydo.ListDesc) token: 57, Data: kdk.android.simplydo.ListDesc@600ea7e (class: kdk.android.simplydo.ListDesc) token: 58, Data: kdk.android.simplydo.ListDesc@14a6bdf (class: kdk.android.simplydo.ListDesc) token: 59]
+at android.support.test.espresso.action.AdapterDataLoaderAction.perform(AdapterDataLoaderAction.java:125)
+at android.support.test.espresso.ViewInteraction$SingleExecutionViewAction.perform(ViewInteraction.java:356)
+at android.support.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:248)
+at android.support.test.espresso.ViewInteraction.access$100(ViewInteraction.java:63)
+at android.support.test.espresso.ViewInteraction$1.call(ViewInteraction.java:153)
+at android.support.test.espresso.ViewInteraction$1.call(ViewInteraction.java:150)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at android.os.Handler.handleCallback(Handler.java:789)
+at android.os.Handler.dispatchMessage(Handler.java:98)
+at android.os.Looper.loop(Looper.java:164)
+at android.app.ActivityThread.main(ActivityThread.java:6541)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.Zygote$MethodAndArgsCaller.run(Zygote.java:240)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:767)
 </pre>
 </span>
 </div>
@@ -146,14 +141,14 @@ at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:20
 </thead>
 <tr>
 <td>deleteInactiveC1</td>
-<td class="failures">failed (3.317s)</td>
+<td class="failures">failed (0.922s)</td>
 </tr>
 </table>
 </div>
 </div>
 <div id="footer">
 <p>Generated by 
-<a href="http://www.gradle.org">Gradle 5.1.1</a> at Jul 25, 2019 4:31:30 PM</p>
+<a href="http://www.gradle.org">Gradle 5.1.1</a> at Jul 29, 2019 7:52:23 PM</p>
 </div>
 </div>
 </body>

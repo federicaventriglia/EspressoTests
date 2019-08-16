@@ -1,0 +1,176 @@
+<html>
+  <head>
+    <style type='text/css'>
+      a            { color:#a0a0e0 }
+      div.title    { 
+          color:#C0F0C0; 
+          font-size:1.2em; 
+          font-weight:bold; 
+          margin-top:1em; 
+          margin-bottom:0.5em; 
+          text-align:center }
+      div.subtitle { 
+          color:#C0F0C0; 
+          font-size:0.8em; 
+          margin-bottom:1em; 
+          text-align:center }
+      div.freetext { color:#F0F0F0 }
+      div.list     { color:#C0C0F0 }
+    </style>
+  </head>
+  <body>
+$ 2.4.7
+  % Version 2.4.7
+   _ 2018-05-05
+    * Some improvements to the language files (typos etc).
+$ 2.4.6
+  % Version 2.4.6
+   _ 2017-11-20
+    * Might have fixed sound stopping issue.
+    * Data should never be lost; if you find this happens then please email to assist in debugging.
+$ 2.4.5
+  % Version 2.4.5
+   _ 2017-08-12
+    * Fixed a potential crashing bug.
+$ 2.4.4
+  % Version 2.4.4
+   _ 2016-08-22
+    * Added permissions request for setting background images.
+$ 2.4.3
+  % Version 2.4.3
+   _ 2016-05-08
+    * Bugfix for database exporting.
+$ 2.4.2
+  % Version 2.4.2
+   _ 2016-04-16
+    * Request storage permission for Android 6.0.
+    * Allow moving to SD card.
+    * Included German translation.
+$ 2.4.1
+  % Version 2.4.1
+   _ 2016-01-20
+    * Bugfixes.
+$ 2.4.0
+  % Version 2.4.0
+   _ 2016-01-19
+    * Projects can now be cloned.
+$ 2.3.9
+  % Version 2.3.9
+   _ 2015-08-15
+    * Optional sound on + or - button press.
+$ 2.3.8
+  % Version 2.3.8
+   _ 2015-08-12
+    * Bugfix for saving alert sound.
+$ 2.3.7-r2
+  % Version 2.3.7-r2
+   _ 2015-07-12
+    * Another fix for a bug on android 4.0.4 and below.
+$ 2.3.7-r1
+  % Version 2.3.7-r1
+   _ 2015-06-07
+    * Fix for small bug on android 4.0.4 and below.
+$ 2.3.7
+  % Version 2.3.7
+   _ 2015-06-07
+    * Optional count multiplier option added (off by default).
+    * Fiddled with count sizes to try to prevent line wrapping.
+    * Fixed database upgrade bug.
+$ 2.3.6
+  % Version 2.3.6
+   _ 2015-03-06
+    * Switch focus to text box when adding a count to a new project.
+    * Added a settings option to disable the requirement for unique count names in a project.
+$ 2.3.5
+  % Version 2.3.5
+   _ 2015-01-13
+    * Redirect to project list after project creation.
+$ 2.3.4
+  % Version 2.3.4
+   _ 2015-01-07
+    * Alerts will now trigger for a count which is set to zero (bugfix).
+    * Some spurious link warnings should no longer appear.
+$ 2.3.3
+  % Version 2.3.3
+   _ 2014-12-21
+    * Project notes can now be shared, allowing them to be exported.
+$ 2.3.2
+  % Version 2.3.2
+   _ 2014-12-07
+    * A bug affecting drop-down menus when adding new links has been fixed.
+    * A small safeguard against recursive linking has been added (this will get more attention in future).
+$ 2.3.1
+  % Version 2.3.1
+   _ 2014-10-27
+    * A new setting allows alerts to also make a sound when triggered.
+    * Some small bugfixes have been added.
+$ 2.3.0
+  % Version 2.3.0
+   _ 2014-09-05
+    * Basic increase/decrease calculation has been added. Please refer to the linked pdf for more information.
+$ 2.2.0
+  % Version 2.2.0
+  _ 2014-08-24
+    * Counts can now have individual notes, in addition to the overall project notes.
+$ 2.1.0
+  % Version 2.1.0
+  _ 2014-08-18
+    * Fixed a bug where elements would disappear from some screens on device rotation.
+    * Added an option to increase the font size of project notes on the counting screen.
+    * Added an option to change the sort order of projects on the project list screen.
+$ 2.0.10
+  % Version 2.0.10
+  _ 2014-07-11
+    * Fix for a crash caused by deleting linked counts.
+$ 2.0.9
+  % Version 2.0.9
+  _ 2014-06-30
+    * Linked counts should now auto-reset properly.
+$ 2.0.8
+  % Version 2.0.8
+  _ 2014-06-25
+    * The font size now changes when counting to accommodate counts greater than 99.
+$ 2.0.7
+  % Version 2.0.7
+  _ 2014-06-23
+    * Additional action bar buttons have been added.
+$ 2.0.6
+  % Version 2.0.6
+  _ 2014-06-21
+    * Improved stability when resuming from pause.
+$ 2.0.5
+  % Version 2.0.5
+  _ 2014-06-20
+    * Various small bugfixes.
+$ 2.0.4
+  % Version 2.0.4
+  _ 2014-06-19
+    * The plus and minus signs on the count buttons have been made clearer.
+    * Fixed missing save button on count options landscape layout.
+$ 2.0.3
+  % Version 2.0.3
+  _ 2014-06-18
+    * The delete button for projects has been added back and should now work properly.
+$ 2.0.2
+  % Version 2.0.2
+  _ 2014-06-17
+    * A preliminary French translation has been added.
+    * A small background image error on the welcome screen has been fixed.
+    * A crash bug when setting a background image has been addressed.
+    * Project deletion has revered back to long-pressing a row, for now (apologies).
+$ 2.0.1
+  % Version 2.0.1
+  _ 2014-06-15
+  ! Please back up your data before proceeding! The export option from the menu above can be used for this purpose.
+    * Projects can now be deleted with a button rather than a long press.
+    * Some links can't be imported, but BeeCount will no longer crash if this happens.
+$ 2.0.0
+  % Version 2.0.0
+  _ 2014-06-14
+  ! BeeCount 2.0!
+    * Multiple alerts and tablet layouts added.
+    * Various other UI improvements.
+    * Much code refactoring to make maintenance and further development easier.
+$ END_OF_CHANGE_LOG
+  </body>
+</html>

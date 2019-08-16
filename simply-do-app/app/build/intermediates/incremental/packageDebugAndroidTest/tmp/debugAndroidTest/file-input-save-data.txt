@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jul 25 16:27:35 CEST 2019
+#Mon Jul 29 19:25:43 CEST 2019
 0.baseType=DIRECTORY
 0.base=/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
 0.path=classes.dex

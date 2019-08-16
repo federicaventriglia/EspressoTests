@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BeeCount-master.iml" filepath="$PROJECT_DIR$/.idea/BeeCount-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecount/beecount.iml" filepath="$PROJECT_DIR$/beecount/beecount.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.knirirr.beecount"
+    android:largeHeap="true"
+    android:versionName="2.4.7"
+    android:installLocation="auto">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".BeeCountApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.knirirr.beecount.WelcomeActivity"
+            android:theme="@style/Theme.AppCompat"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.NewProjectActivity"
+            android:noHistory="true"
+            android:label="@string/title_activity_new_project"
+            android:parentActivityName="com.knirirr.beecount.WelcomeActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="WelcomeActivity" />
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.SettingsActivity"
+            android:label="@string/action_settings"
+            android:parentActivityName="com.knirirr.beecount.WelcomeActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="WelcomeActivity" />
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.ListProjectActivity"
+            android:label="@string/title_activity_list_project"
+            android:theme="@android:style/Theme.Holo"
+            android:parentActivityName="com.knirirr.beecount.WelcomeActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="WelcomeActivity" />
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.CountingActivity"
+            android:label="@string/title_activity_counting"
+            android:theme="@style/Theme.AppCompat"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.knirirr.beecount.ListProjectActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ListProjectActivity" />
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.CountOptionsActivity"
+            android:label="@string/title_activity_count_options"
+            android:theme="@style/Theme.AppCompat"
+            android:parentActivityName="com.knirirr.beecount.CountingActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="CountingActivity" />
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.EditProjectActivity"
+            android:label="@string/title_activity_edit_project"
+            android:theme="@style/Theme.AppCompat"
+            android:parentActivityName="com.knirirr.beecount.CountingActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="CountingActivity" />
+        </activity>
+        <activity
+            android:name="com.knirirr.beecount.CalculateActivity"
+            android:label="@string/calcButton"
+            android:theme="@style/Theme.AppCompat"
+            android:configChanges="locale">
+        </activity>
+
+        <uses-library android:required="false" android:name="com.sec.android.app.multiwindow" />
+        <meta-data android:name="com.sec.android.support.multiwindow" android:value="true" />
+        <meta-data android:name="com.sec.android.multiwindow.DEFAULT_SIZE_W" android:resource="@dimen/app_defaultsize_w" />
+        <meta-data android:name="com.sec.android.multiwindow.DEFAULT_SIZE_H" android:resource="@dimen/app_defaultsize_h" />
+        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_W" android:resource="@dimen/app_minimumsize_w" />
+        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H" android:resource="@dimen/app_minimumsize_h" />
+
+
+    </application>
+
+</manifest>

@@ -47,7 +47,7 @@ public class EditTextC4 {
                     "android.permission.WRITE_EXTERNAL_STORAGE");
 
     @Test
-    public void editTextDefauC4() {
+    public void editTextC4() {
         // Added a sleep statement to match the app's execution delay.
         // The recommended way to handle such scenarios is to use Espresso idling resources:
         // https://google.github.io/android-testing-support-library/docs/espresso/idling-resource/index.html

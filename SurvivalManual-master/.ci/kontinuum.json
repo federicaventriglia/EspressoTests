@@ -1,0 +1,9 @@
+{
+  "type": "android",
+  "stages": [
+    "testForFDroidDebugComposer",
+    "lint",
+    "test",
+    "assemble"
+  ]
+}

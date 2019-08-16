@@ -16,6 +16,7 @@ import com.zola.bmi.R;
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;
 import org.hamcrest.TypeSafeMatcher;
+import org.hamcrest.core.IsInstanceOf;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -41,7 +42,8 @@ public class UITextAssertC5 {
                 allOf(withId(android.R.id.text1), withText("Kilograms"),
                         childAtPosition(
                                 allOf(ViewMatchers.withId(R.id.weightSpinner),
-                                        childAtPosition(withId(R.id.weightSpinner),
+                                        childAtPosition(
+                                                IsInstanceOf.<View>instanceOf(android.widget.RelativeLayout.class),
                                                 0)),
                                 0),
                         isDisplayed()));
@@ -51,7 +53,8 @@ public class UITextAssertC5 {
                 allOf(withId(android.R.id.text1), withText("Centimetres"),
                         childAtPosition(
                                 allOf(withId(R.id.heightSpinner),
-                                        childAtPosition(withId(R.id.heightSpinner),
+                                        childAtPosition(
+                                                IsInstanceOf.<View>instanceOf(android.widget.RelativeLayout.class),
                                                 2)),
                                 0),
                         isDisplayed()));

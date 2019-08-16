@@ -38,7 +38,7 @@ public class AddItemC4 {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void addItemDefauC4() {
+    public void addItemC4() {
         ViewInteraction floatingActionButton = onView(
                 allOf(withId(R.id.fab_add),
                         childAtPosition(

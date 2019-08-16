@@ -2,6 +2,7 @@
 buildscript {
     ext {
         lintVersion = '26.1.4'
+        jacocoVersion = '0.8.2'
     }
     repositories {
        // maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
@@ -12,7 +13,8 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.0'
         //Jacoco plugin
-        classpath 'org.jacoco:org.jacoco.core:0.8.1'
+        //classpath "com.vanniktech:gradle-android-junit-jacoco-plugin:0.15.0"
+        classpath "org.jacoco:org.jacoco.core:$jacocoVersion"
     }
 }
 

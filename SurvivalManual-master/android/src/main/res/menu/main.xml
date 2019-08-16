@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_search"
+          android:title="Search"
+          android:icon="@drawable/ic_action_search"
+          app:showAsAction="always|collapseActionView"
+          app:actionViewClass="android.support.v7.widget.SearchView" />
+
+    <item
+            android:id="@+id/menu_settings"
+            android:icon="@drawable/ic_action_settings"
+            android:title="Settings"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/menu_bookmark"
+            android:title="@string/bookmark"
+            android:visible="false"
+            android:icon="@drawable/ic_action_bookmark"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/menu_share"
+            android:icon="@drawable/ic_social_share"
+            android:title="@string/share"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/menu_rate"
+            android:title="@string/rate"
+            android:icon="@drawable/ic_toggle_star"
+            app:showAsAction="ifRoom"/>
+</menu>

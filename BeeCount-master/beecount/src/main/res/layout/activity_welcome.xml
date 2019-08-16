@@ -1,0 +1,61 @@
+<ScrollView
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/baseLayout"
+      android:fillViewport="true">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:layout_margin="10sp"
+            android:id="@+id/welcomeTitle"
+            android:textColor="@android:color/white"
+            android:text="@string/app_name" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/welcomeWaffle"
+            android:textColor="@android:color/white"
+            android:autoLink="email|web"
+            android:text="@string/hello"
+            android:background="@drawable/rounded_corner"
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:layout_margin="10dp"/>
+
+      <LinearLayout
+              android:id="@+id/welcomeButtons"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:layout_gravity="center">
+
+          <Button android:id="@+id/newProjectButton"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="center|bottom"
+                  android:onClick="newProject"
+                  android:text="@string/newProjectButton"
+                  />
+
+          <Button android:id="@+id/viewProjectButton"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:onClick="viewProjects"
+                  android:text="@string/viewProjectButton"
+                  />
+      </LinearLayout>
+
+  </LinearLayout>
+</ScrollView>

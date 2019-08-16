@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_project">New Project</string>
+    <string name="title_activity_list_project">Your Projects</string>
+    <string name="title_activity_counting">CountingActivity</string>
+    <string name="title_activity_count_options">CountOptionsActivity</string>
+    <string name="title_activity_edit_project">EditProjectActivity</string>
+    <string name="hello_world">Hello World!</string>
+
+    <!-- generic -->
+    <string name="app_name">BeeCount</string>
+    <string name="customMissing">Your custom background image could not be found; the default will be used instead.</string>
+    <string name="customNotDefined">A custom background image is not defined; the default will be used instead.</string>
+    <string name="customTooBig">Sorry, trying to set the background image has caused an out of memory error.</string>
+
+    <!-- WelcomeActivity -->
+    <string name="hello">Welcome to BeeCount! The purpose of this app is to store count details for several knitting or crochet projects and allow you to count each separately. Each project may have multiple \'counts\', each being something such as a pattern repeat or a row which you wish to track. Use the buttons below to create new projects or manage existing ones.\n\n By editing a project after creating it you can also link counts together so that one increments another.\n\nSettings can be changed by accessing the menu on this screen (menu button or 3-dot overflow menu above).\n\nShould you have any questions you may visit the Ravelry group at http://www.ravelry.com/groups/beecount, or email bug reports to knirirr@gmail.com.\n</string>
+    <string name="newProjectButton">New Project</string>
+    <string name="viewProjectButton">View Projects</string>
+    <string name="newProjTitle">Create new project</string>
+    <string name="changeLogTitle">Change Log</string>
+
+    <!-- NewprojActivity -->
+    <string name="labelNewprojSaveButton">Save Project</string>
+    <string name="labelNewproj">Project Name</string>
+    <string name="labelNewCountButton">Add Count</string>
+    <string name="clearCountButton">Remove Count</string>
+    <string name="emptyBox">Please fill in the empty boxes!</string>
+    <string name="noCounts">You must define at least one count!</string>
+    <string name="duplicate">Each count name must be unique!</string>
+    <string name="boxFill">Item no. </string>
+    <string name="projectSaved">Project saved!</string>
+
+    <!-- ListprojActivity -->
+    <string name="noCard">Your sdcard could not be accessed!</string>
+    <string name="saveFail">Your database could not be exported!</string>
+    <string name="saveWin">Your database has been exported to the sdcard.</string>
+    <string name="exportMenu">Export</string>
+    <string name="importMenu">Import</string>
+    <string name="importFail">Your database could not be imported!</string>
+    <string name="importWin">Your database has been imported from the sdcard.</string>
+    <string name="noDb">Please put \'beecount.db\' on your /sdcard partition.</string>
+    <string name="importButton">Import</string>
+    <string name="importCancelButton">Cancel</string>
+    <string name="confirmImport">Are you sure you want to import a backed-up beecount.db? Your current projects will be overwritten!</string>
+
+
+    <!-- CountingActivity -->
+    <string name="saveCountsButton">Save &amp; exit</string>
+    <string name="projSaving">Saving </string>
+    <string name="hasAutoReset">%1$s has auto-reset!</string>
+    <string name="alertTitle">Buzzzz!</string>
+    <string name="willLinkReset">- %1$s will reset %2$s at %3$d.</string>
+    <string name="willLinkIncrease">- %1$s will increase %2$s every %3$d.</string>
+    <string name="willLinkDecrease">- %1$s will decrease %2$s every %3$d.</string>
+    <string name="cloneButton">Duplicate project</string>
+    <string name="newName">You must select a name for the new copy of this project.</string>
+    <string name="newCopyCreated">A new copy has been created!</string>
+
+
+    <!-- CountingActivity Menu -->
+    <string name="editProjTitle">Edit Project</string>
+    <string name="confirmDelete">Are you sure you want to delete this project?</string>
+    <string name="postIncr">%1$s has increased %2$s!</string>
+    <string name="postReset">%1$s has reset %2$s!</string>
+    <string name="postDecr">%1$s has decreased %2$s!</string>
+    <string name="willReset">- %1$s will auto-reset to %2$d at %3$d.</string>
+    <string name="willAlert">- %1$s will show alert at  %2$d.</string>
+    <string name="deleteButton">Delete</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="action_share">Share</string>
+    <string name="send_to">Share notes</string>
+
+    <!-- EditprojActivity -->
+    <string name="titleEdit">Project Name</string>
+    <string name="addLinkButton">Link Counts</string>
+    <string name="failedToSave">Sorry, your project failed to save. Please check your links and try again.</string>
+    <string name="mismatch">Please check which counts you have linked</string>
+    <string name="zero">The link increment value cannot be zero; save failed!</string>
+    <string name="every">every</string>
+    <string name="incr_up"> will increase </string>
+    <string name="incr_down"> will decrease </string>
+    <string name="incr_reset"> will reset </string>
+    <string name="notesHere">Notes</string>
+    <string name="notesHint">Type some notes here&#8230;</string>
+    <string name="deleteCount">Delete Count</string>
+    <string name="reallyDeleteCount">Are you sure you\'d like to do this? This count will be deleted immediately.</string>
+    <string name="deleteLink">Delete Link</string>
+    <string name="reallyDeleteLink">Are you sure you\'d like to do this? This link will be deleted immediately.</string>
+    <string name="xWillYZ">%1$s %2$s %3$s every %4$d.</string>
+    <string name="linkPlaceholder">Link information will go here</string>
+
+    <!-- ChangeLog -->
+    <string name="changelog_full_title">Change Log</string>
+    <string name="changelog_title">What\'s New</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">more&#8230;</string>
+
+    <!-- Preferences -->
+    <string name="pref_bg">Background</string>
+    <string name="pref_bg_summ">Choose default, custom or no background image.</string>
+    <string name="pref_awake">Keep screen on</string>
+    <string name="pref_awake_summ">Prevent screen from sleeping whilst counting.</string>
+    <string name="chooseImg">Image</string>
+    <string name="explainImg">Select the background image to be used when a custom image is selected.</string>
+    <string name="toast_away">Disable toasts</string>
+    <string name="toast_away_summ">This stops the \"x has incremented y\" toasts from popping up during counting.</string>
+    <string name="prefs_appearance">Appearance</string>
+    <string name="prefs_counting">Counting</string>
+    <string name="image_error">Error setting custom image! Please try using the gallery rather than a file manager.</string>
+    <string name="pref_note_font">Note font</string>
+    <string name="pref_note_font_summ">Select this option to increase the size of note fonts on the counting screen.</string>
+    <string name="pref_sort_order">Sorting</string>
+    <string name="pref_sort_order_summ">Sort order when viewing your list of projects.</string>
+    <string name="pref_sound">Audible alerts</string>
+    <string name="pref_sound_summary">Sound an audible alert when a row alert is triggered.</string>
+    <string name="choose_alert">Notification sound</string>
+    <string name="explain_alert">Choose a notification tone for alerts.</string>
+    <string name="pref_negative">Allow negative counts</string>
+    <string name="pref_negative_summ">If this option is selected then counts can drop below 0 when counting down.</string>
+    <string name="pref_duplicate">Prevent duplicate counts</string>
+    <string name="pref_duplicate_summary">When selected, the count names in each project must be unique.</string>
+    <string name="pref_count_multiplier">Count multiplier</string>
+    <string name="pref_count_multiplier_summary">Show option to multiply a count by a set value. </string>
+    <string name="pref_button_sound">Count button sounds</string>
+    <string name="pref_button_sound_summary">Make a sound upon pressing the count up or count down buttons.</string>
+    <string name="choose_button_alert">Button sound (count up)</string>
+    <string name="choose_button_down_alert">Button sound (count down)</string>
+    <string name="explain_button_alert">Choose a sound for counting up.</string>
+    <string name="explain_button_down_alert">Choose a sound for counting down.</string>
+    <string name="permission_please">BeeCount needs permission to read your device storage in order to use a custom background.</string>
+    <string name="pref_loopstop">Stop count link loops</string>
+    <string name="pref_loopstop_summary">If you uncheck this box the application could crash...</string>
+
+
+    <!-- CountOptionsActivity -->
+    <string name="setResetValue">Set the value at which this count will reset itself. The count will be reset to 0 unless the reset level (see below) is also changed. Set to 0 to disable.</string>
+    <string name="setResetLevel">When %1$s resets it will reset to the number here. To cause it to reset the auto reset value (above) must be set to a value higher than 0.</string>
+    <string name="editCountValue">You may change the value of %1$s from its current value of %2$d by editing it here. </string>
+    <string name="addSomeAlerts">Each count may have zero or more alerts which will be triggered when the count reaches that level. Use the add button to the right to add more and the close button on each alert to remove it.</string>
+    <string name="alertName">New Alert</string>
+    <string name="countName">New Count</string>
+    <string name="deleteAlert">Delete Alert</string>
+    <string name="reallyDeleteAlert">Are you sure you\'d like to do this? The alert will be deleted immediately.</string>
+    <string name="yesDeleteIt">Delete</string>
+    <string name="noCancel">Cancel</string>
+    <string name="countMult">The value displayed will be multiplied by whatever value you put in here.</string>
+
+    <!-- other stuff -->
+    <string name="charZero">0</string>
+    <string name="countNameHint">Count Name</string>
+    <string name="hintTitle">Title</string>
+    <string name="hintProjectNotes">Project notes.</string>
+    <string name="hintInstructions">Instructions.</string>
+    <string name="upgradeFail">Some of your links could not be upgraded to the new data format. Please check your projects to see which ones, and re-add them manually. Sorry for the inconvenience.</string>
+    <string name="getHelp">Sorry, there was a problem with your database. Please email if you need assistance, attaching your exported beecount.db.</string>
+    <string name="linkLoop">Your links loop around upon each other - you may want to fix this.</string>
+    <string name="linkLoopError">Oh no!</string>
+
+    <!-- calculations -->
+    <string name="calcButton">Calculate</string>
+    <string name="aboutCalc">This screen allows the calculation of increases or decreases using the \"magic formula\" as described by Ann Budd from the original by Cheryl Brunette, who published it in \"Sweater 101.\" Please refer to the PDF at http://www.annbuddknits.com/Magic_Increase_Decrease_Formula.pdf for more details.</string>
+    <string name="stitchTotal">Total number of stitches</string>
+    <string name="toIncrease">Number of stitches to increase/decrease</string>
+    <string name="increaseOutput">"Increase/decrease every %1$s stitch %2$d times, and every %3$s stitch %4$d times."</string>
+    <string name="calcTitle">Calculation results</string>
+    <string name="calcError">Calculation error!</string>
+    <string name="updating_with_calc">Updating project notes!</string>
+    <string name="dont_set_zero">Please set all the input values to something greater than zero!</string>
+
+
+
+
+</resources>

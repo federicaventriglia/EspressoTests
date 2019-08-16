@@ -10,41 +10,136 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdbd196f-fdcb-4a0f-88b5-068038b69d5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Results/DataAnalysis/Editor.jmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/DataAnalysis/Editor.jmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATimeTracker-master/android-timetracker/.idea/libraries/Gradle__com_android_support_support_annotations_26_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATimeTracker-master/android-timetracker/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATimeTracker-master/android-timetracker/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI_Calculator-master/BMI/BMI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMI_Calculator-master/BMI/BMI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI_Calculator-master/BMI/src/androidTest/java/com/zola/bmi/C5/UITextAssertC5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BMI_Calculator-master/BMI/src/androidTest/java/com/zola/bmi/C5/UITextAssertC5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/single results csv/BMI/BMIResults.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/single results csv/BMI/BMIResults.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/single results csv/SimplyDo/SimplyDoResults.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/single results csv/SimplyDo/SimplyDoResults.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.ChangeMetricsInputC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.ChangeMetricsInputC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.InputDataC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.InputDataC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.MixedMetricsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.MixedMetricsC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.ScoreAssertTextC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.ScoreAssertTextC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.UIAssertC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.UIAssertC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.ChangeMetricsInputC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.ChangeMetricsInputC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.InputDataC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.InputDataC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.MixedMetricsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.MixedMetricsC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.ScoreAssertC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.ScoreAssertC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.UIAssertC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.UIAssertC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.ChangeMetricInputC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.ChangeMetricInputC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.InputDataTestC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.InputDataTestC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.MixedMetricsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.MixedMetricsC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.ScoreAssertionC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.ScoreAssertionC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.ScoreAssertionTextC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.ScoreAssertionTextC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.UIExistsTestC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.UIExistsTestC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.UITextAssertC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.UITextAssertC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.ChangeMetricsInputC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.ChangeMetricsInputC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.InputDataC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.InputDataC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.MixedMetricsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.MixedMetricsC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.ScoreAssertC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.ScoreAssertC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.UIAssertC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.UIAssertC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.ChangeMetricsInputC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.ChangeMetricsInputC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.InputDataC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.InputDataC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.MixedMetricsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.MixedMetricsC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.ScoreAssertTextC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.ScoreAssertTextC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.UIAssertC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.UIAssertC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.C6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.ChangeMetricInputDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.InputDataTestDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.MixedMetricsDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.ScoreAssertionDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.ScoreAssertionTextDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.UIExistsTestDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.UITextAssertDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/com.zola.bmi.Default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/BMI-Calculator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.AddItemC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.AddItemC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.ChangeSettingsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.ChangeSettingsC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.CheckItemC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.CheckItemC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.CreateListsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.CreateListsC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.SortItemsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.SortItemsC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.AddItemC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.AddItemC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.ChangeSettingsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.ChangeSettingsC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.CheckItemC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.CheckItemC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.CreateListC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.CreateListC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.SortItemsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.SortItemsC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.AddItemC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.AddItemC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.ChangeSettingsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.ChangeSettingsC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.CheckItemC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.CheckItemC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.CreateListsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.CreateListsC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.SortItemsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.SortItemsC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.AddItemC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.AddItemC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.ChangeSettingsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.ChangeSettingsC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.CheckItemC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.CheckItemC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.CreateListC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.CreateListC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.SortItemsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.SortItemsC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.AddItemC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.AddItemC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.ChangeSettingsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.ChangeSettingsC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.CheckItemC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.CheckItemC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.CreateListsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.CreateListsC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.SortItemsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.SortItemsC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.C6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.Default.AddItemDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.Default.ChangeSettingsDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.Default.CheckItemDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.Default.CreateListsDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.Default.SortItemsDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/simply-do-app/kdk.android.simplydo.Default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/Default/ChangeSizeDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/C1/ChangeSizeC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/Default/ChangeThemeDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/C1/ChangeThemeC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/Default/ChangeTypefaceDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/C1/ChangeTypefaceC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/Default/EditTextDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/C1/EditTextC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/Default/OpenRecentDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/C1/OpenRecentC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/Default/OtherSettingsDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/src/androidTest/java/org/billthefarmer/editor/C1/OtherSettingsC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/app_classes/debug/bundleDebugClasses/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/app_classes/debug/bundleDebugClasses/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/4Bpae1s42bPcb5qUXAEZB3ndffs=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/92yFXqJf1z7PvL+IHpsjuo8KKfI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/MZAmiLyBxU88ySRN+ppsZj+POgU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/ntvqeDORtWSy+ionKy_c_ME+7sU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/y1O8eBOOVL+wdszFhrJf2glKOCg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/53dUms1Jy78eqH+VfeEAGkFLWE0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/YKjlRs5oZ9DYYjRKZlxZgo7JWRI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/fnEGhDpEZNL+g9akVZ0Dh5HYJTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/nUA9IVFx9ZgxmQ4brQOiYYsojgo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJavaRes/zip-cache/uz_jqh+kxlb75bby5YtaSYaRyuQ=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/4Bpae1s42bPcb5qUXAEZB3ndffs=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/92yFXqJf1z7PvL+IHpsjuo8KKfI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/MZAmiLyBxU88ySRN+ppsZj+POgU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/ntvqeDORtWSy+ionKy_c_ME+7sU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/y1O8eBOOVL+wdszFhrJf2glKOCg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/53dUms1Jy78eqH+VfeEAGkFLWE0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/YKjlRs5oZ9DYYjRKZlxZgo7JWRI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/fnEGhDpEZNL+g9akVZ0Dh5HYJTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/nUA9IVFx9ZgxmQ4brQOiYYsojgo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debugAndroidTest-mergeJniLibs/zip-cache/uz_jqh+kxlb75bby5YtaSYaRyuQ=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
@@ -52,321 +147,134 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/file-input-save-data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/zip-cache/8xyKULoWJp7iKevq252UHo702WA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/zip-cache/8xyKULoWJp7iKevq252UHo702WA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/kdk/android/simplydo/CachingDataViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/kdk/android/simplydo/CachingDataViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/AddItemC4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/AddItemC4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/ChangeSettingsC4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/ChangeSettingsC4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/CheckItemC4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/CheckItemC4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/CreateListsC4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/CreateListsC4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/SortItemsC4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/C4/SortItemsC4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/AddItemDefault$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/AddItemDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/ChangeSettingsDefault$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/ChangeSettingsDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/CheckItemDefault$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/CheckItemDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/CreateListsDefault$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/CreateListsDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/SortItemsDefault$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/kdk/android/simplydo/Default/SortItemsDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/AddItemC4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/AddItemC4.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/ChangeSettingsC4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/ChangeSettingsC4.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/CheckItemC4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/CheckItemC4.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/CreateListsC4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/CreateListsC4.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/SortItemsC4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/C4/SortItemsC4.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/AddItemDefault$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/AddItemDefault.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/ChangeSettingsDefault$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/ChangeSettingsDefault.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/CheckItemDefault$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/CheckItemDefault.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/CreateListsDefault$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/CreateListsDefault.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/SortItemsDefault$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/0/kdk/android/simplydo/Default/SortItemsDefault.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/CachingDataViewer$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/CachingDataViewer$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/CachingDataViewer$ViewerTask.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/CachingDataViewer$ViewerTask.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/CachingDataViewer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/CachingDataViewer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DataManager$DatabaseHelper.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DataManager$DatabaseHelper.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DataManager.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DataManager.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DeleteInactiveAction$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DeleteInactiveAction$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DeleteInactiveAction.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/DeleteInactiveAction.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemDesc.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemDesc.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemListSorter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemPropertiesAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ItemPropertiesAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/L.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/L.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListDesc.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListDesc.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListListSorter$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListListSorter$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListListSorter$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListListSorter$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListListSorter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListListSorter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListPropertiesAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/ListPropertiesAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/MoveToAction.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$array.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$array.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$xml.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R$xml.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/R.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$NameOnlyFile.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity$NameOnlyFile.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/RestoreActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SettingsActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SettingsActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimpleDataViewer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimpleDataViewer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$10.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$10.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$11.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$11.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$12.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$12.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$7.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$7.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$8.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$8.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$9.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$9.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$ItemsListReactor.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$ItemsListReactor.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$ListsListReactor.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity$ListsListReactor.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/kdk/android/simplydo/SimplyDoActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/androidTest-results/connected/TEST-Pixel_API_26(AVD) - 8.0.0-app-.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/androidTest-results/connected/TEST-Pixel_API_26(AVD) - 8.0.0-app-.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddAssertC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddAssertC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddItemC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddItemC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ChangeSettingsC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ChangeSettingsC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CheckItemC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CheckItemC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CreateListsC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CreateListsC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DecoratorC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DecoratorC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DeleteInactiveC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DeleteInactiveC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ItemAssertC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ItemAssertC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.MultipleListC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.MultipleListC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.SortItemsC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.SortItemsC1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddAssertC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddAssertC2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddItemC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddItemC2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ChangeSettingsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ChangeSettingsC2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CheckItemC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CheckItemC2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CreateListsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CreateListsC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DecoratorC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DecoratorC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DeleteInactiveC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DeleteInactiveC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ItemAssertC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ItemAssertC2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.MultipleListC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.MultipleListC2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.SortItemsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.SortItemsC2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddAssertC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddAssertC3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddItemC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddItemC3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ChangeSettingsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ChangeSettingsC3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CheckItemC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CheckItemC3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CreateListC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CreateListC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DecoratorC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DecoratorC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DeleteInactiveC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DeleteInactiveC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ItemAssertC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ItemAssertC3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.MultipleListC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.MultipleListC3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.SortItemsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.SortItemsC3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddAssertC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddAssertC4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddItemC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddItemC4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ChangeSettingsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ChangeSettingsC4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CheckItemC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CheckItemC4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CreateListsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CreateListsC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DecoratorC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DecoratorC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DeleteInactiveC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DeleteInactiveC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ItemAssertC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ItemAssertC4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.MultipleListC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.MultipleListC4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.SortItemsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.SortItemsC4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddAssertC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddAssertC5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddItemC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddItemC5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ChangeSettingsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ChangeSettingsC5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CheckItemC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CheckItemC5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CreateListC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CreateListC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DecoratorC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DecoratorC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DeleteInactiveC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DeleteInactiveC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ItemAssertC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ItemAssertC5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.MultipleListC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.MultipleListC5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.SortItemsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.SortItemsC5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddAssertC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddAssertC6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddItemC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddItemC6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ChangeSettingsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ChangeSettingsC6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CheckItemC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CheckItemC6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CreateListsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CreateListsC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DecoratorC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DecoratorC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DeleteInactiveC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DeleteInactiveC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ItemAssertC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ItemAssertC6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.MultipleListC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.MultipleListC6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.SortItemsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.SortItemsC6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.Default.AddItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.Default.ChangeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.Default.CheckItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.Default.CreateListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.Default.SortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/reports/androidTests/connected/kdk.android.simplydo.Default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/device/emulator-5554.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/device/emulator-5556.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/device/emulator-5558.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/device/emulator-5560.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/device/emulator-5562.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/junit-reports/emulator-5554.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/junit-reports/emulator-5556.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/junit-reports/emulator-5562.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.AddItemC2/addItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.AddItemC2/addItemC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.CreateListsC2/createListsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.CreateListsC2/createListsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.AddItemC3/addItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.AddItemC3/addItemC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.CreateListC3/createListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.CreateListC3/createListC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.AddItemC5/addItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.AddItemC5/addItemC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.CreateListC5/createListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.CreateListC5/createListC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.AddItemC6/addItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.AddItemC6/addItemC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.CreateListsC6/createListsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.CreateListsC6/createListsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5554/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.AddItemC2/addItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.AddItemC2/addItemC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.CreateListsC2/createListsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.CreateListsC2/createListsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.AddItemC3/addItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.AddItemC3/addItemC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.CreateListC3/createListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.CreateListC3/createListC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.AddItemC5/addItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.AddItemC5/addItemC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.CreateListC5/createListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.CreateListC5/createListC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.AddItemC6/addItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.AddItemC6/addItemC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.CreateListsC6/createListsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.CreateListsC6/createListsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5556/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.AddItemC2/addItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.AddItemC2/addItemC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.CreateListsC2/createListsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.CreateListsC2/createListsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.AddItemC3/addItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.AddItemC3/addItemC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.CreateListC3/createListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.CreateListC3/createListC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.AddItemC5/addItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.AddItemC5/addItemC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.CreateListC5/createListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.CreateListC5/createListC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.AddItemC6/addItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.AddItemC6/addItemC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.CreateListsC6/createListsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.CreateListsC6/createListsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/logs/emulator-5562/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/arrows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/bootstrap-responsive.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/bullets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/ceiling_android.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/jquery.nivo.slider.pack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/nivo-slider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/static/spoon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C2.AddItemC2/addItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C2.ChangeSettingsC2/changeSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C2.CheckItemC2/checkItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C2.CreateListsC2/createListsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C2.SortItemsC2/sortItemsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C3.AddItemC3/addItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C3.ChangeSettingsC3/changeSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C3.CheckItemC3/checkItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C3.CreateListC3/createListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C3.SortItemsC3/sortItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C4.AddItemC4/addItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C4.ChangeSettingsC4/changeSettingsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C4.CheckItemC4/checkItemDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C4.CreateListsC4/createListsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C4.SortItemsC4/sortItemsDefauC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C5.AddItemC5/addItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C5.ChangeSettingsC5/changeSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C5.CheckItemC5/checkItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C5.CreateListC5/createListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C5.SortItemsC5/sortItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C6.AddItemC6/addItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C6.ChangeSettingsC6/changeSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C6.CheckItemC6/checkItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C6.CreateListsC6/createListsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.C6.SortItemsC6/sortItemsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.Default.AddItemDefault/addItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.Default.ChangeSettingsDefault/changeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.Default.CheckItemDefault/checkItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.Default.CreateListsDefault/createListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/test/kdk.android.simplydo.Default.SortItemsDefault/sortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/spoon-output/debug/tv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/AddItemC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/AddItemC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/ChangeSettingsC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/ChangeSettingsC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/CheckItemC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/CheckItemC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/CreateListsC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/CreateListsC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/SortItemsC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C4/SortItemsC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/AddItemDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C1/AddItemC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/ChangeSettingsDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C1/ChangeSettingsC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/CheckItemDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C1/CheckItemC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/CreateListsDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C1/CreateListsC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/SortItemsDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C1/SortItemsC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -374,6 +282,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/simply_do_app$simply_do_app_app__createDebugCoverageReport_.ic" NAME="simply-do-app:app [createDebugCoverageReport] Coverage Results" MODIFIED="1564421864664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -411,6 +322,12 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="verification" type="c8890929:TasksNode$1" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="simply-do-app" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -423,8 +340,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="84" lean-forward="true" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+            <state relative-caret-position="545">
+              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C3/ItemAssertC3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
             </state>
           </provider>
         </entry>
@@ -432,8 +358,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="66">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -453,8 +379,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/AddItemDefault.java" />
-        <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/SortItemsDefault.java" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/ChangeSettingsDefault.java" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/Default/ChangeSettingsDefault.java" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/CreateListC6.java" />
@@ -502,12 +426,14 @@
         <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C3/DeleteInactiveC3.java" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/AddAssertC3.java" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C3/AddAssertC3.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/jacoco.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="976" />
@@ -528,20 +454,47 @@
             </path>
             <path>
               <item name="simply-do-app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="simply-do-app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="simplydo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simply-do-app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="simplydo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="C1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simply-do-app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="simplydo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="C1" type="462c0819:PsiDirectoryNode" />
+              <item name="AddAssertC1" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="simply-do-app" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="device.picker.selection" value="Pixel_API_26" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="test.recorder" />
@@ -563,7 +516,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.simply-do-app:app [connectedCheck]">
+  <component name="RunManager" selected="Gradle.simply-do-app:app [createDebugCoverageReport]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -624,152 +577,24 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteInactiveC1" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <option name="TESTING_TYPE" value="2" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="kdk.android.simplydo.C1.DeleteInactiveC1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tests in 'kdk.android.simplydo.C4'" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <option name="TESTING_TYPE" value="1" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="kdk.android.simplydo.C4" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tests in 'kdk.android.simplydo.C5'" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <option name="TESTING_TYPE" value="1" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="kdk.android.simplydo.C5" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+    <configuration name="simply-do-app:app [connectedAndroidTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="connectedAndroidTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="simply-do-app:app [connectedCheck]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -783,6 +608,25 @@
         <option name="taskNames">
           <list>
             <option value="connectedCheck" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="simply-do-app:app [createDebugCoverageReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="createDebugCoverageReport" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -809,13 +653,32 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="simply-do-app:app [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jacocoTestReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.simply-do-app:app [createDebugCoverageReport]" />
+        <item itemvalue="Gradle.simply-do-app:app [connectedAndroidTest]" />
+        <item itemvalue="Gradle.simply-do-app:app [jacocoTestReport]" />
         <item itemvalue="Gradle.simply-do-app:app [connectedCheck]" />
         <item itemvalue="Gradle.simply-do-app:app [createReleaseCoverageReport]" />
-        <item itemvalue="Android Instrumented Tests.Tests in 'kdk.android.simplydo.C5'" />
-        <item itemvalue="Android Instrumented Tests.Tests in 'kdk.android.simplydo.C4'" />
-        <item itemvalue="Android Instrumented Tests.DeleteInactiveC1" />
       </list>
     </recent_temporary>
   </component>
@@ -874,7 +737,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -886,17 +749,18 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.39953542" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.39907193" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.32908458" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32908458" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32908458" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.47856316" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.47851336" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32908458" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3263647" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3259861" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.32868758" />
-      <window_info anchor="bottom" id="Android Profiler" order="9" weight="0.32908458" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" weight="0.32908458" />
       <window_info anchor="bottom" id="Statistic" order="10" weight="0.40208575" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.26984128" />
@@ -905,14 +769,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/items.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/restore_entry.xml">
       <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
@@ -1106,13 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C3/ItemAssertC3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C1/MultipleListC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -1200,17 +1049,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/jacoco.gradle" />
+    <entry file="file://$PROJECT_DIR$/jacoco.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/kdk/android/simplydo/C3/ItemAssertC3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="66">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="84" lean-forward="true" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+        <state relative-caret-position="545">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
         </state>
       </provider>
     </entry>

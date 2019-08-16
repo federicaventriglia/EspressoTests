@@ -40,7 +40,7 @@ public class RemoveCheckedC4 {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void removeCheckedDefauC4() {
+    public void removeCheckedC4() {
         ViewInteraction floatingActionButton = onView(
                 allOf(withId(R.id.fab_add),
                         childAtPosition(

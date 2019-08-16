@@ -37,7 +37,7 @@ public class BrowseSubjectsC4 {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void browseSubjectsDefauC4() {
+    public void browseSubjectsC4() {
         ViewInteraction appCompatButton = onView(
                 allOf(withId(R.id.login_button),
                         childAtPosition(

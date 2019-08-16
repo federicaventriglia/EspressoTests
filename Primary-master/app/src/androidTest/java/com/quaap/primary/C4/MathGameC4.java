@@ -38,7 +38,7 @@ public class MathGameC4 {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void mathGameDefauC4() {
+    public void mathGameC4() {
         ViewInteraction appCompatButton = onView(
                 allOf(ViewMatchers.withId(R.id.login_button),
                         childAtPosition(
