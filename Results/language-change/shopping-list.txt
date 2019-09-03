@@ -1,0 +1,54 @@
+Enter the path of your file: /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/Results/language-change/shoppinglist
+NoMatchingViewException: NewListAssertC2
+NoMatchingViewException: DeleteNewListC6
+NoMatchingViewException: MultipleListsC2
+AmbiguousViewMatcherException: MainTopAssertC6
+NoMatchingViewException: NewListAssertC1
+NoMatchingViewException: DeleteNewListC5
+NoMatchingViewException: MultipleListsC1
+NoMatchingViewException: MainTopAssertC5
+NoMatchingViewException: SortItemsC3
+AmbiguousViewMatcherException: NewListC4
+AmbiguousViewMatcherException: NewListC5
+AmbiguousViewMatcherException: NewListC2
+AmbiguousViewMatcherException: NewListC3
+NoMatchingViewException: SortItemsC2
+NoMatchingViewException: AddItemC1
+AmbiguousViewMatcherException: RemoveCheckedC6
+NoMatchingViewException: SortItemsC1
+AmbiguousViewMatcherException: CheckItemC6
+NoMatchingViewException: DeleteNewListC4
+NoMatchingViewException: NewListAssertC3
+NoMatchingViewException: MultipleListsC3
+AmbiguousViewMatcherException: NewListC6
+NoMatchingViewException: RemoveCheckedC1
+AmbiguousViewMatcherException: SettingsC6
+AmbiguousViewMatcherException: SettingsC4
+NoMatchingViewException: CheckItemC3
+NoMatchingViewException: RemoveCheckedC2
+AmbiguousViewMatcherException: SettingsC2
+NoMatchingViewException: NewListAssertC4
+NoMatchingViewException: MultipleListsC4
+NoMatchingViewException: MainTopAssertC3
+NoMatchingViewException: DeleteNewListC3
+NoMatchingViewException: RemoveCheckedC3
+NoMatchingViewException: NewListAssertC6
+NoMatchingViewException: MainTopAssertC2
+NoMatchingViewException: MultipleListsC6
+NoMatchingViewException: CheckItemC2
+NoMatchingViewException: DeleteNewListC2
+NoMatchingViewException: NewListAssertC5
+NoMatchingViewException: MainTopAssertC1
+NoMatchingViewException: MultipleListsC5
+NoMatchingViewException: DeleteNewListC1
+NoMatchingViewException: AddItemC2
+NoMatchingViewException: AddItemsC3
+AmbiguousViewMatcherException: SettingsC1
+NoMatchingViewException: CheckItemC1
+AmbiguousViewMatcherException: SettingsC3
+AmbiguousViewMatcherException: SortItemsC6
+AmbiguousViewMatcherException: NewListC1
+AmbiguousViewMatcherException: SettingsC5
+Total NoMatchingViewException: 34
+Total AmbiguousViewMatcherException: 16
+Total Failed Tests: 50
