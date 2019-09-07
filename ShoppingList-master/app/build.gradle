@@ -18,6 +18,11 @@
  */
 
 apply plugin: 'com.android.application'
+apply plugin: 'spoon'
+// rest of your configuration
+spoon {
+    shard = true
+}
 
 android {
     compileSdkVersion 27
@@ -67,4 +72,7 @@ dependencies {
         exclude group: 'com.android.support', module: 'design'
         exclude group: 'com.android.support', module: 'recyclerview-v7'
     }
+
+    androidTestImplementation 'com.squareup.spoon:spoon-client:1.7.1'
+
 }
