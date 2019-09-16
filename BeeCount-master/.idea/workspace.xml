@@ -11,10 +11,10 @@
   <component name="AvailableLibraryUpdateStorage">
     <library-updates>
       <library-update>
-        <group-id>org.apache.commons</group-id>
-        <name>commons-lang3</name>
-        <version>3.9</version>
-        <repository>Maven Central,JCenter</repository>
+        <group-id>com.android.support</group-id>
+        <name>support-annotations</name>
+        <version>26.0.0-alpha1</version>
+        <repository>Android Repository</repository>
       </library-update>
       <library-update>
         <group-id>com.android.support</group-id>
@@ -24,7 +24,7 @@
       </library-update>
       <library-update>
         <group-id>com.android.support</group-id>
-        <name>support-v4</name>
+        <name>design</name>
         <version>26.0.0-alpha1</version>
         <repository>Android Repository</repository>
       </library-update>
@@ -35,489 +35,79 @@
         <repository>Android Repository</repository>
       </library-update>
       <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>Maven Central,JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>0.6-alpha</version>
+        <repository>Android Repository</repository>
+      </library-update>
+      <library-update>
         <group-id>com.android.support.test.espresso</group-id>
         <name>espresso-core</name>
         <version>2.3-alpha</version>
         <repository>Android Repository</repository>
       </library-update>
+      <library-update>
+        <group-id>org.apache.commons</group-id>
+        <name>commons-lang3</name>
+        <version>3.9</version>
+        <repository>Maven Central,JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-v4</name>
+        <version>26.0.0-alpha1</version>
+        <repository>Android Repository</repository>
+      </library-update>
     </library-updates>
-    <last-search-timestamp>1565169215860</last-search-timestamp>
+    <last-search-timestamp>1568657344620</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd80386-9da0-4491-9ebd-b875680a959d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI_Calculator-master/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMI_Calculator-master/build/intermediates/lint-cache/maven.google/master-index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beecount/beecount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/beecount/beecount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Results/Results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/Results.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.ChangeMetricInputC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.InputDataTestC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.MixedMetricsC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.ScoreAssertionC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.ScoreAssertionTextC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.UIExistsTestC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.UITextAssertC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.ChangeMetricsInputC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.InputDataC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.MixedMetricsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.ScoreAssertTextC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.UIAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.UIExistsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.UITextAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.ChangeMetricsInputC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.InputDataC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.MixedMetricsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.ScoreAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.UIAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.UIExistsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.UITextAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.ChangeMetricInputC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.InputDataTestC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.MixedMetricsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.ScoreAssertionC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.ScoreAssertionTextC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.UIExistsTestC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.UITextAssertC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.ChangeMetricsInputC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.InputDataC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.MixedMetricsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.ScoreAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.UIAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.UIExistC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.UITextAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.ChangeMetricsInputC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.InputDataC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.MixedMetricsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.ScoreAssertTextC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.UIAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.UIExistsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.UITextAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/com.zola.bmi.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/BMI-french/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C2.BrowseSubjectsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C2.CreateUserC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C2.KeyboardSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C2.MathGameC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C2.ViewScoreC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C3.BrowseSubjectsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C3.CreateUserC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C3.KeyboardSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C3.MathGameC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C3.ViewScoreC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C4.BrowseSubjectsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C4.CreateUserC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C4.KeyboardSettingsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C4.MathGameC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C4.ViewScoreC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C5.BrowseSubjectsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C5.CreateUserC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C5.KeyboardSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C5.MathGameC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C5.ViewScoreC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C6.BrowseSubjectsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C6.CreateUserC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C6.KeyboardSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C6.MathGameC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C6.ViewScoreC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.Default.BrowseSubjectsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.Default.CreateUserDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.Default.KeyboardSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.Default.MathGameDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.Default.ViewScoreDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/com.quaap.primary.Default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Primary-french/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.ApplicationTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C2.AddItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C2.CheckItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C2.NewListC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C2.RemoveCheckedC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C2.SettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C3.AddItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C3.CheckItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C3.NewListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C3.RemoveCheckedC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C3.SettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C4.AddItemC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C4.CheckItemC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C4.NewListC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C4.RemoveCheckedC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C4.SettingsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C5.AddItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C5.CheckItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C5.NewListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C5.RemoveCheckedC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C5.SettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C6.AddItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C6.CheckItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C6.NewListC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C6.RemoveCheckedC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C6.SettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.Default.AddItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.Default.CheckItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.Default.NewListDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.Default.RemoveCheckedDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.Default.SettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.Default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/com.woefe.shoppinglist.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/Shopping-List-french/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.AddRemoveCntC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.AssertCountC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.BasicCountC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.ChangeThemeC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.CreateCounterC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.DeleteCounterC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.EditAssertC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.EditCounterC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.MainUIAssertC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.NewCounterAssertC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.AddRemoveCntC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.AssertCountC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.BasicCountC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.ChangeThemeC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.CreateCounterC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.DeleteCounterC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.EditAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.EditCounterC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.MainUIAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.NewCounterAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.AddRemoveCntC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.AssertCountC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.ChangeThemeC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.CountResetC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.CounterBasicC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.DeleteCounterC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.EditAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.MainUIAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.NewCounterAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.NewCounterC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.AddRemoveCntC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.AssertCountC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.BasicCountC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.ChangeThemeC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.CreateCounterC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.DeleteCounterC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.EditAssertC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.EditCounterC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.MainUIAssertC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.NewCounterAssertC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.AddRemoveCntC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.AssertCountC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.ChangeThemeC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.CountResetC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.CounterBasicC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.DeleteCounterC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.EditAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.MainUIAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.NewCounterAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.NewCounterC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.AddRemoveCntC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.AssertCountC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.BasicCountC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.ChangeThemeC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.CreateCounterC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.DeleteCounterC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.EditAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.EditCounterC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.MainUIAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.NewCounterAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/counter-french/me.tsukanov.counter.ui.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.ChangeSizeC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.ChangeThemeC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.ChangeTypefaceC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.EditTextC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.OpenRecentC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.OtherSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.ChangeSizeC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.ChangeThemeC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.ChangeTypefaceC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.EditTextC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.OpenRecentC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.OtherSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.ChangeSizeC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.ChangeThemeC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.ChangeTypefaceC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.EditTextC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.OpenRecentC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.OtherSettingsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.ChangeSizeC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.ChangeThemeC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.ChangeTypefaceC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.EditTextC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.OpenRecentC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.OtherSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.ChangeSizeC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.ChangeThemeC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.ChangeTypefaceC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.EditTextC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.OpenRecentC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.OtherSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.ChangeSizeDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.ChangeThemeDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.ChangeTypefaceDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.EditTextDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.OpenRecentDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.OtherSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/editor-french/org.billthefarmer.editor.Default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C2.AddItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C2.ChangeSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C2.CheckItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C2.CreateListsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C2.SortItemsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C3.AddItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C3.ChangeSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C3.CheckItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C3.CreateListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C3.SortItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C4.AddItemC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C4.ChangeSettingsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C4.CheckItemC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C4.CreateListsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C4.SortItemsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C5.AddItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C5.ChangeSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C5.CheckItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C5.CreateListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C5.SortItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C6.AddItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C6.ChangeSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C6.CheckItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C6.CreateListsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C6.SortItemsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.Default.AddItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.Default.ChangeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.Default.CheckItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.Default.CreateListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.Default.SortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/language-change/simply-do-french/kdk.android.simplydo.Default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.ChangeMetricInputC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.InputDataTestC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.MixedMetricsC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.ScoreAssertionC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.ScoreAssertionTextC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.UIExistsTestC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.UITextAssertC1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.ChangeMetricsInputC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.InputDataC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.MixedMetricsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.ScoreAssertTextC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.UIAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.UIExistsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.UITextAssertC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.ChangeMetricsInputC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.InputDataC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.MixedMetricsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.ScoreAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.UIAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.UIExistsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.UITextAssertC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.ChangeMetricInputC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.InputDataTestC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.MixedMetricsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.ScoreAssertionC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.ScoreAssertionTextC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.UIExistsTestC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.UITextAssertC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.ChangeMetricsInputC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.InputDataC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.MixedMetricsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.ScoreAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.UIAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.UIExistC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.UITextAssertC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.ChangeMetricsInputC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.InputDataC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.MixedMetricsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.ScoreAssertTextC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.UIAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.UIExistsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.UITextAssertC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/com.zola.bmi.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/BMI-Calculator/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C2.AddItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C2.ChangeSettingsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C2.CheckItemC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C2.CreateListsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C2.SortItemsC2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C3.AddItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C3.ChangeSettingsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C3.CheckItemC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C3.CreateListC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C3.SortItemsC3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C4.AddItemC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C4.ChangeSettingsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C4.CheckItemC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C4.CreateListsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C4.SortItemsC4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C5.AddItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C5.ChangeSettingsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C5.CheckItemC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C5.CreateListC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C5.SortItemsC5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C6.AddItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C6.ChangeSettingsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C6.CheckItemC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C6.CreateListsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C6.SortItemsC6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.C6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.Default.AddItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.Default.ChangeSettingsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.Default.CheckItemDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.Default.CreateListsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.Default.SortItemsDefault.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/orientation-change/simply-do/kdk.android.simplydo.Default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/~$ErrorLogs.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/ErrorLogs.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/ErrorLogs.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/~$orientation-change-results.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/~$result-language-results.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShoppingList-master/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingList-master/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShoppingList-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingList-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShoppingList-master/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingList-master/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../counter-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../editor-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simply-do-app/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simply-do-app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simply-do-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/androidTest-results/connected/TEST-Pixel_API_26(AVD) - 8.0.0-app-.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/androidTest-results/connected/TEST-Pixel_API_26(AVD) - 8.0.0-app-.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/code_coverage/debugAndroidTest/connected/Pixel_API_26(AVD) - 8.0.0-coverage.ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddAssertC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddAssertC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddItemC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddItemC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ChangeSettingsC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ChangeSettingsC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CheckItemC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CheckItemC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CreateListsC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CreateListsC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DecoratorC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DecoratorC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DeleteInactiveC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DeleteInactiveC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ItemAssertC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ItemAssertC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.MultipleListC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.MultipleListC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.SortItemsC1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.SortItemsC1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddAssertC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddAssertC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddItemC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddItemC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ChangeSettingsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ChangeSettingsC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CheckItemC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CheckItemC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CreateListsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CreateListsC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DecoratorC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DecoratorC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DeleteInactiveC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DeleteInactiveC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ItemAssertC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ItemAssertC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.MultipleListC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.MultipleListC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.SortItemsC2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.SortItemsC2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddAssertC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddAssertC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddItemC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddItemC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ChangeSettingsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ChangeSettingsC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CheckItemC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CheckItemC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CreateListC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CreateListC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DecoratorC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DecoratorC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DeleteInactiveC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DeleteInactiveC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ItemAssertC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ItemAssertC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.MultipleListC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.MultipleListC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.SortItemsC3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.SortItemsC3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddAssertC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddAssertC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddItemC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddItemC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ChangeSettingsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ChangeSettingsC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CheckItemC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CheckItemC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CreateListsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CreateListsC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DecoratorC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DecoratorC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DeleteInactiveC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DeleteInactiveC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ItemAssertC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ItemAssertC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.MultipleListC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.MultipleListC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.SortItemsC4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.SortItemsC4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddAssertC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddAssertC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddItemC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddItemC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ChangeSettingsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ChangeSettingsC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CheckItemC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CheckItemC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CreateListC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CreateListC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DecoratorC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DecoratorC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DeleteInactiveC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DeleteInactiveC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ItemAssertC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ItemAssertC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.MultipleListC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.MultipleListC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.SortItemsC5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.SortItemsC5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddAssertC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddAssertC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddItemC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddItemC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ChangeSettingsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ChangeSettingsC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CheckItemC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CheckItemC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CreateListsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CreateListsC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DecoratorC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DecoratorC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DeleteInactiveC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DeleteInactiveC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ItemAssertC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ItemAssertC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.MultipleListC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.MultipleListC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.SortItemsC6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.SortItemsC6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/build/intermediates/lint-cache/maven.google/master-index.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -567,38 +157,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/beecount/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="256">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C3/ChangeBackgroundC3.java">
+        <entry file="file://$PROJECT_DIR$/idCheck/src/main/java/com/pan/idcheck/CheckIdDetector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="166">
+              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C2/ChangeBackgroundC2.java">
+        <entry file="file://$PROJECT_DIR$/idCheck/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="342">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C5/NewProjectCountC5.java">
+        <entry file="file://$PROJECT_DIR$/idCheck/src/main/java/com/pan/idcheck/CheckIdIssueRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -612,7 +202,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beecount/build/reports/androidTests/connected/index.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -625,6 +215,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lintVersion</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -680,62 +275,24 @@
         <option value="$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C2/SortSettingsC2.java" />
         <option value="$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/ChangeBackgroundC2.java" />
         <option value="$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C2/ChangeBackgroundC2.java" />
+        <option value="$PROJECT_DIR$/idCheck/build.gradle" />
         <option value="$PROJECT_DIR$/beecount/build.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1270" />
+    <option name="width" value="1279" />
     <option name="height" value="976" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BeeCount-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="beecount" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="BeeCount-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="beecount" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="BeeCount-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="beecount" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="beecount" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeeCount-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="beecount" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="beecount" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeeCount-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="beecount" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="beecount" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="C2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeeCount-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -743,15 +300,11 @@
               <item name="BeeCount-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeeCount-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="BeeCount-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeCount-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1021,30 +574,31 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1270" height="976" extended-state="0" />
+    <frame x="0" y="23" width="1671" height="976" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.26465797" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.1995089" />
       <window_info id="Structure" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Build Variants" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Resources Explorer" order="7" weight="0.32980457" />
       <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Find" weight="0.329849" />
       <window_info anchor="bottom" id="Run" order="0" weight="0.329849" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Statistic" order="2" weight="0.329849" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.329849" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.4947735" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.4947735" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3031359" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.3031359" />
       <window_info anchor="bottom" id="Logcat" order="8" weight="0.329849" />
       <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.3102606" />
+      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.23388582" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
@@ -1248,20 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecount/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C3/ChangeBackgroundC3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C2/ChangeBackgroundC2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1285,6 +825,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beecount/build/reports/androidTests/connected/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecount/src/androidTest/java/com/knirirr/beecount/C3/ChangeBackgroundC3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idCheck/src/main/java/com/pan/idcheck/CheckIdIssueRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idCheck/src/main/java/com/pan/idcheck/CheckIdDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idCheck/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecount/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

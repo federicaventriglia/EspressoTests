@@ -66,5 +66,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:rules:1.0.2'
     androidTestUtil 'com.android.support.test:orchestrator:1.0.2'
    // androidTestImplementation 'com.squareup.spoon:spoon-client:1.7.1'
+    lintChecks project(':idCheck')
 
 }

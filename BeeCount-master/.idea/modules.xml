@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BeeCount-master.iml" filepath="$PROJECT_DIR$/.idea/BeeCount-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecount/beecount.iml" filepath="$PROJECT_DIR$/beecount/beecount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idCheck/idCheck.iml" filepath="$PROJECT_DIR$/idCheck/idCheck.iml" />
     </modules>
   </component>
 </project>

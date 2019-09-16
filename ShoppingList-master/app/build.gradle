@@ -74,5 +74,5 @@ dependencies {
     }
 
     androidTestImplementation 'com.squareup.spoon:spoon-client:1.7.1'
-
+    lintChecks project(':idCheck')
 }

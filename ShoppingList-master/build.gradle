@@ -19,4 +19,8 @@ allprojects {
         jcenter()
         google()
     }
+
+    ext {
+        lintVersion = '26.1.0'
+    }
 }

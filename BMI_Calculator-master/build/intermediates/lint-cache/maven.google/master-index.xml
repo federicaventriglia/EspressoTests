@@ -126,4 +126,9 @@
   <androidx.camera/>
   <androidx.benchmark/>
   <androidx.security/>
+  <com.google.android.datatransport/>
+  <zipflinger/>
+  <androidx.autofill/>
+  <androidx.ads/>
+  <com.android/>
 </metadata>
