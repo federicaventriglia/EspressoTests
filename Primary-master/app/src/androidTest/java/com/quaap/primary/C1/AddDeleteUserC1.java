@@ -47,7 +47,7 @@ public class AddDeleteUserC1 {
                 childAtPosition(
                         allOf(ViewMatchers.withId(R.id.items_list_area),
                                 childAtPosition(
-                                        withId(R.id.horz_list_scroller),
+             tr                           withId(R.id.horz_list_scroller),
                                         0)),
                         0));
         linearLayout.perform(scrollTo(), click());

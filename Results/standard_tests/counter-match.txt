@@ -1,0 +1,199 @@
+Enter the path of your files: me.tsukanov.counter.ui.C6.EditAssertC6.html
+MATCH: 
+MATCH: 
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: ActionBarOverlayLayout
+MATCH: ContentFrameLayout
+MATCH: DrawerLayout
+MATCH: FrameLayout
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: AppCompatTextView
+MATCH: LinearLayout
+MATCH: AppCompatButton
+MATCH: AppCompatButton
+MATCH: ActionBarContainer
+MATCH: Toolbar
+MATCH: AppCompatTextView
+MATCH: AppCompatImageButton
+MATCH: ActionMenuView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: OverflowMenuButton
+MATCH: View
+MATCH: View
+me.tsukanov.counter.ui.C4.AddRemoveCntC4.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C2.NewCounterAssertC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C6.ChangeThemeC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C2.AddRemoveCntC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C6.CreateCounterC6.html
+MATCH: 
+MATCH: 
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: ActionBarOverlayLayout
+MATCH: ContentFrameLayout
+MATCH: DrawerLayout
+MATCH: FrameLayout
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: AppCompatTextView
+MATCH: LinearLayout
+MATCH: AppCompatButton
+MATCH: AppCompatButton
+MATCH: ActionBarContainer
+MATCH: Toolbar
+MATCH: AppCompatTextView
+MATCH: AppCompatImageButton
+MATCH: ActionMenuView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: OverflowMenuButton
+MATCH: View
+MATCH: View
+me.tsukanov.counter.ui.C2.ChangeThemeC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C1.AddRemoveCntC1.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C1.NewCounterAssertC1.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C6.AddRemoveCntC6.html
+MATCH: 
+MATCH: 
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: ActionBarOverlayLayout
+MATCH: ContentFrameLayout
+MATCH: DrawerLayout
+MATCH: FrameLayout
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: AppCompatTextView
+MATCH: LinearLayout
+MATCH: AppCompatButton
+MATCH: AppCompatButton
+MATCH: ActionBarContainer
+MATCH: Toolbar
+MATCH: AppCompatTextView
+MATCH: AppCompatImageButton
+MATCH: ActionMenuView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: OverflowMenuButton
+MATCH: View
+MATCH: View
+me.tsukanov.counter.ui.C4.NewCounterAssertC4.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+me.tsukanov.counter.ui.C6.NewCounterAssertC6.html
+MATCH: 
+MATCH: 
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: ActionBarOverlayLayout
+MATCH: ContentFrameLayout
+MATCH: DrawerLayout
+MATCH: FrameLayout
+MATCH: LinearLayout
+MATCH: FrameLayout
+MATCH: AppCompatTextView
+MATCH: LinearLayout
+MATCH: AppCompatButton
+MATCH: AppCompatButton
+MATCH: ActionBarContainer
+MATCH: Toolbar
+MATCH: AppCompatTextView
+MATCH: AppCompatImageButton
+MATCH: ActionMenuView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: ActionMenuItemView
+MATCH: OverflowMenuButton
+MATCH: View
+MATCH: View

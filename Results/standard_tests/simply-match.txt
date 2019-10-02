@@ -1,0 +1,124 @@
+Enter the path of your files: kdk.android.simplydo.C6.CheckItemC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C6.ChangeSettingsC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.ItemAssertC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.SortItemsC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.MultipleListC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C6.DecoratorC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.AddItemC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C6.AddAssertC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: ActionMenuView
+kdk.android.simplydo.C6.SortItemsC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C6.MultipleListC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.CheckItemC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C6.AddItemC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C6.ItemAssertC6.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.ChangeSettingsC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+kdk.android.simplydo.C2.AddAssertC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: ActionMenuView
+kdk.android.simplydo.C2.DecoratorC2.html
+MATCH: 
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout
+MATCH: LinearLayout

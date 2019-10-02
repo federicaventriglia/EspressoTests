@@ -2,7 +2,16 @@ apply plugin: 'java-library'
 
 sourceCompatibility = "1.8"
 targetCompatibility = "1.8"
-
+repositories {
+    maven {
+        url 'https://maven.google.com/'
+        name 'Google'
+    }
+    jcenter()
+    maven {
+        url 'https://mvnrepository.com/artifact/com.android.tools.lint/lint-gradle-api'
+    }
+}
 jar {
 
     baseName 'com.pan.idcheck' //package name for the JAR
@@ -22,8 +31,9 @@ configurations {
 
 dependencies {
     lintChecks files(jar)
-    compileOnly "com.android.tools.lint:lint-api:$lintVersion"
-    compileOnly "com.android.tools.lint:lint-checks:$lintVersion"
+
+    compileOnly "com.android.tools.lint:lint-api:${lintVersion}"
+    compileOnly "com.android.tools.lint:lint-checks:${lintVersion}"
 }
 
 task install(type: Copy) {

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084364062603",
+    "firebase_url": "https://primary-master-137b3.firebaseio.com",
+    "project_id": "primary-master-137b3",
+    "storage_bucket": "primary-master-137b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084364062603:android:cc064c608492dc1d6e798e",
+        "android_client_info": {
+          "package_name": "com.quaap.primary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084364062603-6cgffbfp3i1r6es007mab2te7j2sen35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quaap.primary",
+            "certificate_hash": "0e65ef6aa63e76fb092f933c8cd1aedc7fa41769"
+          }
+        },
+        {
+          "client_id": "1084364062603-akf67br8n21pk0nvg93at98a7o24ktk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz5khvM_eJ4eqWgYrJJhXnDn0ybPPwIkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084364062603-akf67br8n21pk0nvg93at98a7o24ktk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

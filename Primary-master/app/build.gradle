@@ -36,5 +36,4 @@ dependencies {
     }
     androidTestImplementation 'com.android.support.test:rules:1.0.2'
     androidTestUtil 'com.android.support.test:orchestrator:1.0.2'
-    lintChecks project(':idCheck')
 }

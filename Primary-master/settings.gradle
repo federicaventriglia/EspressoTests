@@ -1,1 +1,1 @@
-include ':app', ':idCheck'
+include ':app'
