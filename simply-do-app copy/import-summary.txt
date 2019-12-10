@@ -1,0 +1,115 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+/Users/federicaventriglia/Documents/Universita/TESI/AndroidStudio/Good Apps/simply-do-app
+                                                                      -                  
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/encodings.xml
+* .idea/workspace.xml
+* app/
+* app/build.gradle
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/kdk/
+* app/src/main/java/kdk/android/
+* app/src/main/java/kdk/android/simplydo/
+* app/src/main/java/kdk/android/simplydo/CachingDataViewer.java
+* app/src/main/java/kdk/android/simplydo/DataManager.java
+* app/src/main/java/kdk/android/simplydo/DataViewer.java
+* app/src/main/java/kdk/android/simplydo/DeleteInactiveAction.java
+* app/src/main/java/kdk/android/simplydo/ItemDesc.java
+* app/src/main/java/kdk/android/simplydo/ItemListSorter.java
+* app/src/main/java/kdk/android/simplydo/ItemPropertiesAdapter.java
+* app/src/main/java/kdk/android/simplydo/L.java
+* app/src/main/java/kdk/android/simplydo/ListDesc.java
+* app/src/main/java/kdk/android/simplydo/ListListSorter.java
+* app/src/main/java/kdk/android/simplydo/ListPropertiesAdapter.java
+* app/src/main/java/kdk/android/simplydo/MoveToAction.java
+* app/src/main/java/kdk/android/simplydo/RestoreActivity.java
+* app/src/main/java/kdk/android/simplydo/SettingsActivity.java
+* app/src/main/java/kdk/android/simplydo/SimpleDataViewer.java
+* app/src/main/java/kdk/android/simplydo/SimplyDoActivity.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/icon.png
+* app/src/main/res/drawable-hdpi/star.png
+* app/src/main/res/drawable-hdpi/star_inactive.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/icon.png
+* app/src/main/res/drawable-ldpi/star.png
+* app/src/main/res/drawable-ldpi/star_inactive.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/icon.png
+* app/src/main/res/drawable-mdpi/star.png
+* app/src/main/res/drawable-mdpi/star_inactive.png
+* app/src/main/res/layout/
+* app/src/main/res/layout/item_edit.xml
+* app/src/main/res/layout/item_entry.xml
+* app/src/main/res/layout/items.xml
+* app/src/main/res/layout/list_edit.xml
+* app/src/main/res/layout/list_entry.xml
+* app/src/main/res/layout/lists.xml
+* app/src/main/res/layout/main.xml
+* app/src/main/res/layout/restore_entry.xml
+* app/src/main/res/values-de/
+* app/src/main/res/values-de/strings.xml
+* app/src/main/res/values-es/
+* app/src/main/res/values-es/strings.xml
+* app/src/main/res/values/
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/text_styles.xml
+* app/src/main/res/xml/
+* app/src/main/res/xml/settings.xml
+* build.gradle
+* default.properties
+* gpl.txt
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* notepad.svg
+* settings.gradle
+* star.svg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

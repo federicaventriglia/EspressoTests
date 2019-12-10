@@ -21,7 +21,6 @@ buildscript {
         }
     }
 
-
     ext {
         lintVersion = '26.1.4'
     }

@@ -1,0 +1,200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Test results - Class kdk.android.simplydo.C5.ItemAssertC5</title>
+<link href="css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class kdk.android.simplydo.C5.ItemAssertC5</h1>
+<div class="breadcrumbs">
+<a href="index.html">all</a> &gt; 
+<a href="kdk.android.simplydo.C5.html">kdk.android.simplydo.C5</a> &gt; ItemAssertC5</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">1</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">1</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">2.398s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox failures" id="successRate">
+<div class="percent">0%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Failed tests</a>
+</li>
+<li>
+<a href="#tab1">Tests</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<div class="test">
+<a name="itemAssertC5"></a>
+<h3 class="failures">itemAssertC5</h3>
+<span class="code">
+<pre>android.support.test.espresso.NoMatchingViewException: No views in hierarchy found matching: (with id: kdk.android.simplydo:id/AddItemButton and Child at position 1 in parent (with id: kdk.android.simplydo:id/LinearLayout01 and Child at position 0 in parent (with id: kdk.android.simplydo:id/itemsView and Child at position 0 in parent (with id: kdk.android.simplydo:id/ListsItemsSwitcher and Child at position 0 in parent Child at position 0 in parent with id: android:id/content))) and is displayed on the screen to the user)
+If the target view is not part of the view hierarchy, you may need to use Espresso.onData to load it from one of the following AdapterViews:android.widget.ListView{bcb83d3 VFED.VCL. ......I. 0,96-1600,195 #7f03000a app:id/ListsListView}
+- android.widget.ListView{6b76ccc VFED.VCL. ........ 0,96-1600,439 #7f030007 app:id/ItemsListView}
+
+View Hierarchy:
++&gt;DecorView{id=-1, visibility=VISIBLE, width=1600, height=2560, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=WM.LayoutParams{(0,0)(fillxfill) sim=#3 ty=1 fl=#81810100 pfl=0x20000 wanim=0x10302f6 needsMenuKey=2 colorMode=0}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++-&gt;ActionBarOverlayLayout{id=16908823, res-name=decor_content_parent, visibility=VISIBLE, width=1600, height=2464, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2ae55a6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++--&gt;FrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1600, height=2288, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=com.android.internal.widget.ActionBarOverlayLayout$LayoutParams@bef1394, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=176.0, child-count=1}
+|
++---&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1600, height=2288, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@65a2632, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++----&gt;ViewSwitcher{id=2130903049, res-name=ListsItemsSwitcher, visibility=VISIBLE, width=1600, height=439, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f37e139, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-----&gt;LinearLayout{id=2130903059, res-name=listsView, visibility=GONE, width=1600, height=195, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c80737e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++------&gt;LinearLayout{id=2130903048, res-name=LinearLayout01, visibility=VISIBLE, width=1600, height=96, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@755c0df, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-------&gt;EditText{id=2130903043, res-name=AddListEditText, desc=addlistedittext, visibility=VISIBLE, width=1424, height=96, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4ff8bfb, tag=null, root-is-layout-requested=false, has-input-connection=true, editor-info=[inputType=0x31 imeOptions=0xc000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=New List Name label=null packageName=null fieldId=0 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], x=0.0, y=0.0, text=, hint=New List Name, input-type=49, ime-target=false, has-links=false}
+|
++-------&gt;Button{id=2130903042, res-name=AddListButton, desc=Add, visibility=VISIBLE, width=176, height=96, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c974418, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1424.0, y=0.0, text=Add, input-type=0, ime-target=false, has-links=false}
+|
++------&gt;ListView{id=2130903050, res-name=ListsListView, visibility=VISIBLE, width=1600, height=99, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@40d7456, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=96.0, child-count=1}
+|
++-------&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1600, height=99, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.AbsListView$LayoutParams@3f490ad, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++--------&gt;TextView{id=2130903060, res-name=text1, desc=Name, visibility=VISIBLE, width=1496, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6047fe2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=20.0, y=20.0, text=one, input-type=0, ime-target=false, has-links=false}
+|
++--------&gt;TextView{id=2130903061, res-name=text2, desc=text2, visibility=VISIBLE, width=84, height=48, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9ad7f73, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1516.0, y=27.0, text=(0/0), input-type=0, ime-target=false, has-links=false}
+|
++-----&gt;LinearLayout{id=2130903057, res-name=itemsView, visibility=VISIBLE, width=1600, height=439, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@1a67e30, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++------&gt;LinearLayout{id=2130903048, res-name=LinearLayout01, visibility=VISIBLE, width=1600, height=96, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@7768aa9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-------&gt;EditText{id=2130903041, res-name=AddItemEditText, desc=addItemEditText, visibility=VISIBLE, width=1424, height=91, has-focus=true, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=true, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@36eb82e, tag=null, root-is-layout-requested=false, has-input-connection=true, editor-info=[inputType=0x31 imeOptions=0x8000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=New Item Name label=null packageName=null fieldId=0 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], x=0.0, y=0.0, text=, hint=New Item Name, input-type=49, ime-target=true, has-links=false}
+|
++-------&gt;Button{id=2130903040, res-name=AddItemButton, desc=Add, visibility=VISIBLE, width=176, height=96, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3d69fcf, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1424.0, y=0.0, text=Add, input-type=0, ime-target=false, has-links=false}
+|
++------&gt;ListView{id=2130903047, res-name=ItemsListView, visibility=VISIBLE, width=1600, height=343, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2042865, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=96.0, child-count=1}
+|
++-------&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1600, height=343, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.AbsListView$LayoutParams@1c769eb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++--------&gt;View{id=2130903052, res-name=SortedMarker, visibility=VISIBLE, width=4, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@aefe348, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++--------&gt;TextView{id=2130903055, res-name=ieText1, desc=ieText1, visibility=VISIBLE, width=0, height=255, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@113e5e1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=item, input-type=0, ime-target=false, has-links=false}
+|
++--------&gt;ImageSwitcher{id=2130903054, res-name=StarSwitcher, desc=StarSwitcher, visibility=INVISIBLE, width=52, height=88, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@5c3ebf4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=255.0, child-count=2}
+|
++---------&gt;ImageView{id=2130903053, res-name=StarImage, desc=starImage, visibility=VISIBLE, width=48, height=48, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@907ff1d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=20.0}
+|
++---------&gt;ImageView{id=2130903046, res-name=InactiveStarImage, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@590a592, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++--&gt;ActionBarContainer{id=16908670, res-name=action_bar_container, visibility=VISIBLE, width=1600, height=128, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=com.android.internal.widget.ActionBarOverlayLayout$LayoutParams@82a7019, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=48.0, child-count=2}
+|
++---&gt;Toolbar{id=16908669, res-name=action_bar, visibility=VISIBLE, width=1600, height=128, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@48f88de, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++----&gt;TextView{id=-1, visibility=VISIBLE, width=66, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.Toolbar$LayoutParams@6851abf, tag=null, root-is-layout-requested=false, has-input-connection=false, x=48.0, y=37.0, text=one, input-type=0, ime-target=false, has-links=false}
+|
++----&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=80, height=128, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.Toolbar$LayoutParams@d68f4d5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1504.0, y=0.0, child-count=1}
+|
++-----&gt;OverflowMenuButton{id=-1, desc=More options, visibility=VISIBLE, width=80, height=96, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.ActionMenuView$LayoutParams@20754ea, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=16.0}
+|
++---&gt;ActionBarContextView{id=16908674, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ffaa3db, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+|
++-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1600, height=96, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@206ae78, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2464.0}
+|
++-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1600, height=48, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ed10951, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1536)
+at android.support.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:88)
+at android.support.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:51)
+at android.support.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:312)
+at android.support.test.espresso.ViewInteraction.check(ViewInteraction.java:297)
+at kdk.android.simplydo.C5.ItemAssertC5.itemAssertC5(ItemAssertC5.java:155)
+at java.lang.reflect.Method.invoke(Native Method)
+at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+at android.support.test.rule.ActivityTestRule$ActivityStatement.evaluate(ActivityTestRule.java:527)
+at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+at android.support.test.runner.AndroidJUnit4.run(AndroidJUnit4.java:101)
+at org.junit.runners.Suite.runChild(Suite.java:128)
+at org.junit.runners.Suite.runChild(Suite.java:27)
+at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+at android.support.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+at android.support.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:384)
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2074)
+</pre>
+</span>
+</div>
+</div>
+<div id="tab1" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Nexus_10_API_26(AVD) - 8.0.0</th>
+</tr>
+</thead>
+<tr>
+<td>itemAssertC5</td>
+<td class="failures">failed (2.398s)</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>Generated by 
+<a href="http://www.gradle.org">Gradle 5.1.1</a> at Dec 7, 2019 3:31:12 PM</p>
+</div>
+</div>
+</body>

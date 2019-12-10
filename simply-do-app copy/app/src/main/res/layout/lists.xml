@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical">
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_height="wrap_content" android:layout_width="fill_parent">
+
+    <EditText
+        android:id="@+id/AddListEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/addlistedittext"
+        android:hint="@string/addListHint"
+        android:imeOptions="actionDone"
+        android:inputType="textEmailSubject"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:importantForAutofill="no"></EditText>
+
+    <Button
+        android:id="@+id/AddListButton"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="0"
+        android:contentDescription="@string/addListButton"
+        android:text="@string/addListButton"></Button>
+</LinearLayout><ListView android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/ListsListView"></ListView>
+
+</LinearLayout>

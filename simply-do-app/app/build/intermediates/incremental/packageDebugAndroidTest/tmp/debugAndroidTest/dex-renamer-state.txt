@@ -1,4 +1,4 @@
-#Mon Jul 29 19:25:42 CEST 2019
+#Sat Nov 09 11:11:03 GMT 2019
 base.0=/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
 path.0=classes.dex
 renamed.0=classes.dex

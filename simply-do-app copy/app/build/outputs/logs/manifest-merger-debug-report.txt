@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:4:7-37
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:4:38-65
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:3:7-30
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:6:5-97
+	android:name
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:7:2-19:16
+	android:label
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:7:45-77
+	android:hardwareAccelerated
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:7:78-112
+	android:icon
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:7:15-44
+activity#kdk.android.simplydo.SimplyDoActivity
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:8:9-13:20
+	android:label
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:8:52-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:11:27-74
+activity#kdk.android.simplydo.SettingsActivity
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:14:9-16:20
+	android:label
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:15:19-57
+	android:name
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:14:19-51
+activity#kdk.android.simplydo.RestoreActivity
+ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:18:3-94
+	android:label
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:18:45-82
+	android:name
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml:18:13-44
+uses-sdk
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml

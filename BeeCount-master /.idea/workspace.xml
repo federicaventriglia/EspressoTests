@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvailableLibraryUpdateStorage">
+    <last-search-timestamp>1576010568676</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ebc3e64-f9cb-41e8-aef3-51cf61857168" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BMI_Calculator-master/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../BMI_Calculator-master/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI_Calculator-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BMI_Calculator-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/codeStyleSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__FastInfoset_1_2_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__annotations_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__asm_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__asm_analysis_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__asm_tree_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__bcpkix_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__bcprov_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__builder_model_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__builder_test_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_test_rules_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__common_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__commons_codec_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__commons_compress_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__ddmlib_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__dvlib_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__error_prone_annotations_2_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__gson_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__guava_22_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__httpclient_4_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__httpcore_4_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__httpmime_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__intellij_core_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__istack_commons_runtime_2_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__javax_activation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__jaxb_api_2_2_12_b140109_1041.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__jaxb_core_2_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__jaxb_runtime_2_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__jimfs_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__kotlin_compiler_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__kotlin_reflect_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__kotlin_stdlib_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__kotlin_stdlib_jre7_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__kotlin_stdlib_jre8_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__kxml2_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__layoutlib_api_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__lint_api_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__lint_checks_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__lint_kotlin_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__manifest_merger_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__protobuf_java_3_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__repository_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__sdk_common_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__sdklib_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__stax_ex_1_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__trove4j_20160824.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__txw2_2_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/Gradle__uast_26_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/com_android_support_appcompat_v7_23_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/com_android_support_support_annotations_23_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/com_android_support_support_v4_23_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/idCheck_com_pan_idcheck_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/libraries/org_apache_commons_commons_lang3_3_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/BeeCount-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/BeeCount2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/Test Results - Tests_in_'com_knirirr_beecount'.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/AllMatchingAttrTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/AssertionMatchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/AssertionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/AssertionTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/ButtonsTextTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/ButtonsWithID1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/ButtonsWithID2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/MainActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/androidTest/java/com/pan/lintpan/NoMatchingAttrTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/java/com/pan/lintpan/BottomSheetFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/java/com/pan/lintpan/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/layout/fragment_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/app/src/test/java/com/pan/lintpan/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/lint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/proguard-rules.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/AlertMainAssertC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/ChangeBackgroundC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/DeleteProjectC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/MultipleProjectsC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/NewListCheckC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/NewProjectCountC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/NewProjectEmptyC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/SortSettingsC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/TopMenuAssertC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C1/WelcomeAssertC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/AlertMainAssertC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/ChangeBackgroundC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/DeleteProjectC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/MultipleProjectsC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/NewListCheckC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/NewProjectCountC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/NewProjectEmptyC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/SortSettingsC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/TopMenuAssertC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C2/WelcomeAssertC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/AlertMainAssertC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/ChangeBackgroundC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/DeleteProjectC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/MultipleProjectsC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/NewListCheckC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/NewProjectCountC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/NewProjectEmptyC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/SortSettingsC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/TopMenuAssertC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C3/WelcomeAssertC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/AlertMainAssertC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/ChangeBackgroundC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/DeleteProjectC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/MultipleProjectsC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/NewListCheckC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/NewProjectCountC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/NewProjectEmptyC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/SortSettingsC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/TopMenuAssertC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C4/WelcomeAssertC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/AlertMainAssertC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/ChangeBackgroundC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/DeleteProjectC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/MultipleProjectsC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/NewListCheckC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/NewProjectCountC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/NewProjectEmptyC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/SortSettingsC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/TopMenuAssertC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C5/WelcomeAssertC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/AlertMainAssertC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/ChangeBackgroundC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/DeleteProjectC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/MultipleProjectsC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/NewListCheckC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/NewProjectCountC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/NewProjectEmptyC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/SortSettingsC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/TopMenuAssertC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/androidTest/java/com/knirirr/beecount/C6/WelcomeAssertC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/AutoFitText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/BeeCountApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/CalculateActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/CountOptionsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/CountingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/EditProjectActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/ListProjectActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/NewCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/NewProjectActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/ProjectListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/SettingsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/WelcomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/Alert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/AlertDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/CountDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/DbHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/LinkDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/database/ProjectDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/AddAlertWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/AlertCreateWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/CountEditWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/CountingWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/EditTitleWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/ExistingLinkWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/LinkEditWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/NotesWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/com/knirirr/beecount/widgets/OptionsWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/java/sheetrock/panda/changelog/ChangeLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-land-nodpi/beecount_knitting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-nodpi/beecount_knitting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-nodpi/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-nodpi/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable/count_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable/list_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/drawable/rounded_corner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-land/activity_calculate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-land/activity_count_options.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-land/activity_counting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-land/activity_edit_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-xlarge/activity_calculate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-xlarge/activity_count_options.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-xlarge/activity_counting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout-xlarge/activity_edit_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_calculate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_count_options.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_counting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_edit_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_list_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_new_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/activity_welcome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/custom_spinner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/listview_project_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_add_alert.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_alert_create.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_counting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_edit_count.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_edit_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_existing_link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_link_edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_notes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/layout/widget_options.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/menu/count_options.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/menu/counting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/menu/edit_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/menu/list_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/menu/new_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/menu/welcome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/raw/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values-de/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values-fr/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values-fr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/beecount/src/main/res/xml/preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/idCheck/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/idCheck/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/idCheck/idCheck.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/idCheck/src/main/java/com/pan/idcheck/CheckIdDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/idCheck/src/main/java/com/pan/idcheck/CheckIdIssueRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeeCount-master/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/app/src/androidTest/java/com/quaap/primary/C1/AddDeleteUserC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/app/src/androidTest/java/com/quaap/primary/C1/AddDeleteUserC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primary-master/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Primary-master/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/Results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/Results.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.AlertMainAssertC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.ChangeBackgroundC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.DeleteProjectC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.MultipleProjectsC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.NewListCheckC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.NewProjectCountC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.NewProjectEmptyC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.SortSettingsC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.TopMenuAssertC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.WelcomeAssertC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.AlertMainAssertC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.ChangeBackgroundC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.DeleteProjectC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.MultipleProjectsC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.NewListCheckC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.NewProjectCountC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.NewProjectEmptyC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.SortSettingsC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.TopMenuAssertC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.WelcomeAssertC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.AlertMainAssertC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.ChangeBackgroundC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.DeleteProjectC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.MultipleProjectsC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.NewListCheckC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.NewProjectCountC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.NewProjectEmptyC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.SortSettingsC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.TopMenuAssertC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.WelcomeAssertC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.AlertMainAssertC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.ChangeBackgroundC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.DeleteProjectC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.MultipleProjectsC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.NewListCheckC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.NewProjectCountC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.NewProjectEmptyC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.SortSettingsC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.TopMenuAssertC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.WelcomeAssertC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.AlertMainAssertC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.ChangeBackgroundC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.DeleteProjectC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.MultipleProjectsC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.NewListCheckC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.NewProjectCountC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.NewProjectEmptyC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.SortSettingsC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.TopMenuAssertC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.WelcomeAssertC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.AlertMainAssertC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.ChangeBackgroundC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.DeleteProjectC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.MultipleProjectsC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.NewListCheckC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.NewProjectCountC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.NewProjectEmptyC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.SortSettingsC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.TopMenuAssertC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.WelcomeAssertC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/com.knirirr.beecount.C6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/language-change/beecount/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/orientation-change-results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/orientation-change-results.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/result-language-results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/result-language-results.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/converthtml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/fail-analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results/standard_tests/lint.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Results/standard_tests/lint.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Eko+n1Y07DxK7d6q3LYQB+mo8Z0=" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Eko+n1Y07DxK7d6q3LYQB+mo8Z0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/tofgziOTGcKxJtrAry9mvr19+9M=" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/tofgziOTGcKxJtrAry9mvr19+9M=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/res/merged/debug/layout_item_entry.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/res/merged/debug/layout_item_entry.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/androidTest-results/connected/TEST-Pixel_API_26(AVD) - 8.0.0-app-.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddAssertC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.AddItemC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ChangeSettingsC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CheckItemC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.CreateListsC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DecoratorC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.DeleteInactiveC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.ItemAssertC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.MultipleListC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.SortItemsC1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddAssertC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.AddItemC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ChangeSettingsC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CheckItemC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.CreateListsC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DecoratorC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.DeleteInactiveC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.ItemAssertC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.MultipleListC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.SortItemsC2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddAssertC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.AddItemC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ChangeSettingsC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CheckItemC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.CreateListC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DecoratorC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.DeleteInactiveC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.ItemAssertC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.MultipleListC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.SortItemsC3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddAssertC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.AddItemC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ChangeSettingsC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CheckItemC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.CreateListsC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DecoratorC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.DeleteInactiveC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.ItemAssertC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.MultipleListC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.SortItemsC4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddAssertC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.AddItemC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ChangeSettingsC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CheckItemC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.CreateListC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DecoratorC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.DeleteInactiveC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.ItemAssertC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.MultipleListC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.SortItemsC5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddAssertC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.AddItemC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ChangeSettingsC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CheckItemC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.CreateListsC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DecoratorC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.DeleteInactiveC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.ItemAssertC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.MultipleListC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.SortItemsC6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/androidTests/connected/kdk.android.simplydo.C6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/build/reports/lint-results-debug.html" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/build/reports/lint-results-debug.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/app/src/main/res/layout/item_entry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/app/src/main/res/layout/item_entry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/item_edit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/item_edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/item_entry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/item_entry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/items.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/list_edit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/list_edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/list_entry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/list_entry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/lists.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/lists.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simply-do-app/res/layout/restore_entry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simply-do-app/res/layout/restore_entry.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/idCheck">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BeeCount-master " type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BeeCount-master " type="f1a62948:ProjectNode" />
+                <item name=":idCheck" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BeeCount-master " type="f1a62948:ProjectNode" />
+                <item name=":idCheck" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BeeCount-master " type="f1a62948:ProjectNode" />
+                <item name=":idCheck" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecount/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idCheck/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="61" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/beecount/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
+    <option name="y" value="23" />
+    <option name="width" value="1535" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BeeCount-master " type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="device.picker.selection" value="Nexus_10_API_26" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1576011066197" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beecount" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="beecount" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ebc3e64-f9cb-41e8-aef3-51cf61857168" name="Default Changelist" comment="" />
+      <created>1575738676783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575738676783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="23" width="1535" height="920" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25184193" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Statistic" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32971016" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.4931677" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2795031" />
+      <window_info anchor="bottom" id="Logcat" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.32953784" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/beecount/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idCheck/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

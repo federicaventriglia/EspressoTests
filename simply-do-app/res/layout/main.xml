@@ -5,7 +5,11 @@
     android:layout_height="fill_parent"
     >
     
-<ViewSwitcher android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/ListsItemsSwitcher">
+<ViewSwitcher
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ListsItemsSwitcher"
+    android:contentDescriptor="@string/ListsItemsSwitcher">
     <include android:id="@+id/listsView" layout="@layout/lists" />
     <include android:id="@+id/itemsView" layout="@layout/items" />
 </ViewSwitcher>

@@ -9,6 +9,7 @@
 		    android:id="@+id/text1"
 		    android:layout_height="wrap_content"
 		    android:text="Name"
+			android:contentDescriptor="@string/text1"
             style="@style/ActiveText"
 		    android:layout_weight="1" android:layout_width="wrap_content"/>
 
@@ -17,6 +18,7 @@
 		    style="@android:style/TextAppearance.Small"
 		    android:layout_height="wrap_content"
             android:text="Value"
+			android:contentDescriptor="@string/text2"
             android:paddingTop="5dp"
             android:paddingLeft="10dp"
 		android:layout_width="wrap_content" android:layout_weight="0"/>
