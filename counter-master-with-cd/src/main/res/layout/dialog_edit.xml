@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/dialog_scroll_view"
+    android:contentDescription="dialog_scroll_view">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/dialog_layout_padding"
+        android:id="@+id/EditLinearLayout"
+        android:contentDescription="dialog_edit_linear_layout">>
+
+        <TextView
+            android:id="@+id/dialog_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="dialog_text_view"
+            android:text="@string/dialog_edit_name" />
+
+        <EditText
+            android:id="@+id/edit_name"
+            android:contentDescription="dialog_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLines="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="dialog_second_text_view"
+            android:paddingTop="8dp"
+            android:text="@string/dialog_edit_value"
+            android:id="@+id/dialog_edit_TextView" />
+
+        <EditText
+            android:id="@+id/edit_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned"
+            android:contentDescription="edit_value_text_view"
+            android:maxLength="8"
+            android:maxLines="1" />
+
+    </LinearLayout>
+</ScrollView>

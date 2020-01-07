@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:contentDescription="linear_layout2">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:id="@+id/FrameLayout1"
+        android:contentDescription="frame_layout1">
+
+        <TextView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/counterLabel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="?valueColor"
+            android:contentDescription="main_text_view"
+            app:autoSizeMaxTextSize="300sp"
+            app:autoSizeMinTextSize="20sp"
+            app:autoSizeStepGranularity="2sp"
+            app:autoSizeTextType="uniform" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout"
+        android:contentDescription="linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/incrementButton"
+            android:contentDescription="incrementButton"
+            style="@style/increment_button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/plus" />
+
+        <Button
+            android:id="@+id/decrementButton"
+            android:contentDescription="decrementButton"
+            style="@style/decrement_button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/minus" />
+    </LinearLayout>
+
+</LinearLayout>

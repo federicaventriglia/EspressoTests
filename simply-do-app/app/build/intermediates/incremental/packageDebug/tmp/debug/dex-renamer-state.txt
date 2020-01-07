@@ -1,4 +1,4 @@
-#Sat Dec 07 15:25:51 GMT 2019
+#Thu Jan 02 13:17:46 CET 2020
 base.0=/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

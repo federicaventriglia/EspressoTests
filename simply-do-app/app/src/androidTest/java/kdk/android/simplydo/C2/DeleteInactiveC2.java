@@ -47,7 +47,7 @@ public class DeleteInactiveC2 {
     public ActivityTestRule<SimplyDoActivity> mActivityTestRule = new ActivityTestRule<>(SimplyDoActivity.class);
 
     @Test
-    public void deleteInactiveC1() {
+    public void deleteInactiveC2() {
         ViewInteraction editText = onView(
                 allOf(ViewMatchers.withId(R.id.AddListEditText), withContentDescription("addlistedittext"),
                         isDisplayed()));
@@ -78,7 +78,7 @@ public class DeleteInactiveC2 {
 
         pressBack();
 
-        openActionBarOverflowOrOptionsMenu(getInstrumentation().getTargetContext());
+       openActionBarOverflowOrOptionsMenu(getInstrumentation().getTargetContext());
 
         DataInteraction linearLayout3 = onData(anything())
                 .inAdapterView(allOf(withId(R.id.ListsListView)));
@@ -98,22 +98,4 @@ public class DeleteInactiveC2 {
         pressBack();
     }
 
-    private static Matcher<View> childAtPosition(
-            final Matcher<View> parentMatcher, final int position) {
-
-        return new TypeSafeMatcher<View>() {
-            @Override
-            public void describeTo(Description description) {
-                description.appendText("Child at position " + position + " in parent ");
-                parentMatcher.describeTo(description);
-            }
-
-            @Override
-            public boolean matchesSafely(View view) {
-                ViewParent parent = view.getParent();
-                return parent instanceof ViewGroup && parentMatcher.matches(parent)
-                        && view.equals(((ViewGroup) parent).getChildAt(position));
-            }
-        };
-    }
 }
