@@ -173,10 +173,10 @@ document.getElementById(id).style.display = 'none';
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
-      <span class="mdl-layout-title">Lint Report: 46 warnings</span>
+      <span class="mdl-layout-title">Lint Report: 47 warnings</span>
       <div class="mdl-layout-spacer"></div>
       <nav class="mdl-navigation mdl-layout--large-screen-only">
-Check performed at Sat Nov 09 10:46:02 GMT 2019      </nav>
+Check performed at Mon Jan 13 21:10:57 GMT 2020      </nav>
     </div>
   </header>
   <div class="mdl-layout__drawer">
@@ -190,6 +190,7 @@ Check performed at Sat Nov 09 10:46:02 GMT 2019      </nav>
       <a class="mdl-navigation__link" href="#com.pan.MissingIdAndContentDescriptionAttributes"><i class="material-icons warning-icon">warning</i>both id and content description attributes are missing (6)</a>
       <a class="mdl-navigation__link" href="#com.pan.MissingContentDescriptionAttribute"><i class="material-icons warning-icon">warning</i>content description attribute is missing (10)</a>
       <a class="mdl-navigation__link" href="#AllowBackup"><i class="material-icons warning-icon">warning</i>AllowBackup/FullBackupContent Problems (2)</a>
+      <a class="mdl-navigation__link" href="#InefficientWeight"><i class="material-icons warning-icon">warning</i>Inefficient layout weight (1)</a>
       <a class="mdl-navigation__link" href="#UnusedResources"><i class="material-icons warning-icon">warning</i>Unused resources (1)</a>
       <a class="mdl-navigation__link" href="#UselessParent"><i class="material-icons warning-icon">warning</i>Useless parent layout (1)</a>
       <a class="mdl-navigation__link" href="#IconMissingDensityFolder"><i class="material-icons warning-icon">warning</i>Missing density folder (1)</a>
@@ -242,6 +243,9 @@ Check performed at Sat Nov 09 10:46:02 GMT 2019      </nav>
 <a href="#AllowBackup">AllowBackup</a>: AllowBackup/FullBackupContent Problems</td></tr>
 <tr><td class="countColumn"></td><td class="categoryColumn"><a href="#Performance">Performance</a>
 </td></tr>
+<tr>
+<td class="countColumn">1</td><td class="issueColumn"><i class="material-icons warning-icon">warning</i>
+<a href="#InefficientWeight">InefficientWeight</a>: Inefficient layout weight</td></tr>
 <tr>
 <td class="countColumn">1</td><td class="issueColumn"><i class="material-icons warning-icon">warning</i>
 <a href="#UnusedResources">UnusedResources</a>: Unused resources</td></tr>
@@ -364,14 +368,14 @@ Dismiss</button>            </div>
 <span class="lineno">  7 </span>
 <span class="lineno">  8 </span>            <span class="tag">&lt;EditText</span><span class="attribute">
 </span><span class="lineno">  9 </span><span class="attribute">                </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/AddItemEditText"</span></pre>
-<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:5</span>: <span class="message">Defined here, included via layout/main.xml => layout/lists.xml defines @+id/LinearLayout01</span><br /><pre class="errorlines">
-<span class="lineno">  2 </span><span class="tag">&lt;LinearLayout</span><span class="attribute">
-</span><span class="lineno">  3 </span><span class="attribute">  </span><span class="prefix">xmlns:</span><span class="attribute">android</span>=<span class="value">"http://schemas.android.com/apk/res/android"</span>
-<span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span>>
-<span class="caretline"><span class="lineno">  5 </span><span class="tag">&lt;LinearLayout</span><span class="attribute"> </span></span><span class="warning"><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/LinearLayout01"</span> <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>></span>
-<span class="lineno">  6 </span>
-<span class="lineno">  7 </span>    <span class="tag">&lt;EditText</span><span class="attribute">
-</span><span class="lineno">  8 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/AddListEditText"</span></pre>
+<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:7</span>: <span class="message">Defined here, included via layout/main.xml => layout/lists.xml defines @+id/LinearLayout01</span><br /><pre class="errorlines">
+<span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>
+<span class="lineno">  5 </span>    <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>
+<span class="lineno">  6 </span>    <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span>>
+<span class="caretline"><span class="lineno">  7 </span><span class="tag">&lt;LinearLayout</span><span class="attribute"> </span></span><span class="warning"><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/LinearLayout01"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno">  8 </span>    <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno">  9 </span>    <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>>
+</pre>
 </ul></div>
 <div class="metadata"><div class="explanation" id="explanationDuplicateIncludedIds" style="display: none;">
 It's okay for two independent layouts to use the same ids. However, if layouts are combined with include tags, then the id's need to be unique within any chain of included layouts, or <code>Activity#findViewById()</code> can return an unexpected view.<br/>To suppress this error, use the issue id "DuplicateIncludedIds" as explained in the <a href="#SuppressInfo">Suppressing Warnings and Errors</a> section.<br/>
@@ -465,14 +469,14 @@ Dismiss</button>            </div>
 <span class="lineno"> 17 </span><span class="tag">&lt;/LinearLayout></span>
 </pre>
 
-<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:18</span>: <span class="message">Attribute <code>importantForAutofill</code> is only used in API level 26 and higher (current min is 16)</span><br /><pre class="errorlines">
-<span class="lineno"> 15 </span>        <span class="prefix">android:</span><span class="attribute">inputType</span>=<span class="value">"textEmailSubject"</span>
-<span class="lineno"> 16 </span>        <span class="prefix">android:</span><span class="attribute">maxLines</span>=<span class="value">"1"</span>
-<span class="lineno"> 17 </span>        <span class="prefix">android:</span><span class="attribute">singleLine</span>=<span class="value">"true"</span>
-<span class="caretline"><span class="lineno"> 18 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">importantForAutofill</span>=<span class="value">"no"</span></span>><span class="tag">&lt;/EditText></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 19 </span>
-<span class="lineno"> 20 </span>    <span class="tag">&lt;Button</span><span class="attribute">
-</span><span class="lineno"> 21 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/AddListButton"</span></pre>
+<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:22</span>: <span class="message">Attribute <code>importantForAutofill</code> is only used in API level 26 and higher (current min is 16)</span><br /><pre class="errorlines">
+<span class="lineno"> 19 </span>        <span class="prefix">android:</span><span class="attribute">inputType</span>=<span class="value">"textEmailSubject"</span>
+<span class="lineno"> 20 </span>        <span class="prefix">android:</span><span class="attribute">maxLines</span>=<span class="value">"1"</span>
+<span class="lineno"> 21 </span>        <span class="prefix">android:</span><span class="attribute">singleLine</span>=<span class="value">"true"</span>
+<span class="caretline"><span class="lineno"> 22 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">importantForAutofill</span>=<span class="value">"no"</span></span>><span class="tag">&lt;/EditText></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 23 </span>
+<span class="lineno"> 24 </span>    <span class="tag">&lt;Button</span><span class="attribute">
+</span><span class="lineno"> 25 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/AddListButton"</span></pre>
 
 </div>
 <div class="metadata"><div class="explanation" id="explanationUnusedAttribute" style="display: none;">
@@ -517,9 +521,9 @@ Dismiss</button>            </div>
 <span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:2</span>: <span class="message">Missing both id and content description attributes</span><br /><pre class="errorlines">
 <span class="lineno">  1 </span><span class="prologue">&lt;?xml version="1.0" encoding="utf-8"?></span>
 <span class="caretline"><span class="lineno">  2 </span><span class="warning"><span class="tag">&lt;LinearLayout</span><span class="attribute"> </span><span class="prefix">xmlns:</span><span class="attribute">android</span>=<span class="value">"http://schemas.android.com/apk/res/android"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno">  3 </span>    <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"0dp"</span>
-<span class="lineno">  4 </span>    <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"0dp"</span>
-<span class="lineno">  5 </span>    <span class="prefix">android:</span><span class="attribute">paddingLeft</span>=<span class="value">"0dp"</span></pre>
+<span class="lineno">  3 </span>    <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>
+<span class="lineno">  4 </span>    <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno">  5 </span>    <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span></pre>
 
 <span class="location"><a href="../../src/main/res/layout/items.xml">../../src/main/res/layout/items.xml</a>:2</span>: <span class="message">Missing both id and content description attributes</span><br /><pre class="errorlines">
 <span class="lineno">  1 </span><span class="prologue">&lt;?xml version="1.0" encoding="utf-8"?></span>
@@ -540,9 +544,8 @@ Dismiss</button>            </div>
 <span class="lineno">  1 </span><span class="prologue">&lt;?xml version="1.0" encoding="utf-8"?></span>
 <span class="caretline"><span class="lineno">  2 </span><span class="warning"><span class="tag">&lt;LinearLayout</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="attribute">
 </span><span class="lineno">  3 </span><span class="attribute">  </span><span class="prefix">xmlns:</span><span class="attribute">android</span>=<span class="value">"http://schemas.android.com/apk/res/android"</span>
-<span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span>>
-<span class="lineno">  5 </span><span class="tag">&lt;LinearLayout</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/LinearLayout01"</span> <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>>
-</pre>
+<span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>
+<span class="lineno">  5 </span>    <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span></pre>
 
 <span class="location"><a href="../../src/main/res/layout/main.xml">../../src/main/res/layout/main.xml</a>:2</span>: <span class="message">Missing both id and content description attributes</span><br /><pre class="errorlines">
 <span class="lineno">  1 </span><span class="prologue">&lt;?xml version="1.0" encoding="utf-8"?></span>
@@ -601,23 +604,23 @@ Dismiss</button>            </div>
 <span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span> <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span> <span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/item_edit_root"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">minWidth</span>=<span class="value">"300dp"</span>>
 </pre>
 
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:9</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
-<span class="lineno">  6 </span>    <span class="prefix">android:</span><span class="attribute">paddingRight</span>=<span class="value">"0dp"</span>
-<span class="lineno">  7 </span>    <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"horizontal"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>>
-<span class="lineno">  8 </span>    
-<span class="caretline"><span class="lineno">  9 </span>  <span class="warning"><span class="tag">&lt;View</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">background</span>=<span class="value">"#ff1111ee"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"2dp"</span> <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">visibility</span>=<span class="value">"invisible"</span> <span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/SortedMarker"</span>><span class="tag">&lt;/View></span></span></span>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:11</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
+<span class="lineno">  8 </span>    <span class="prefix">android:</span><span class="attribute">paddingRight</span>=<span class="value">"0dp"</span>
+<span class="lineno">  9 </span>    <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"0dp"</span>>
 <span class="lineno"> 10 </span>
-<span class="lineno"> 11 </span>    <span class="tag">&lt;TextView</span><span class="attribute">
-</span><span class="lineno"> 12 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/ieText1"</span></pre>
+<span class="caretline"><span class="lineno"> 11 </span>    <span class="warning"><span class="tag">&lt;View</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="attribute">
+</span><span class="lineno"> 12 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/SortedMarker"</span>
+<span class="lineno"> 13 </span>        <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"2dp"</span>
+<span class="lineno"> 14 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span></pre>
 
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:39</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
-<span class="lineno"> 36 </span>            <span class="prefix">android:</span><span class="attribute">src</span>=<span class="value">"@drawable/star"</span>
-<span class="lineno"> 37 </span>            <span class="prefix">android:</span><span class="attribute">visibility</span>=<span class="value">"invisible"</span>><span class="tag">&lt;/ImageView></span>
-<span class="lineno"> 38 </span>
-<span class="caretline"><span class="lineno"> 39 </span>        <span class="warning"><span class="tag">&lt;ImageView</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="attribute">
-</span><span class="lineno"> 40 </span><span class="attribute">            </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/InactiveStarImage"</span>
-<span class="lineno"> 41 </span>            <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 42 </span>            <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span></pre>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:46</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
+<span class="lineno"> 43 </span>            <span class="prefix">android:</span><span class="attribute">src</span>=<span class="value">"@drawable/star"</span>
+<span class="lineno"> 44 </span>            <span class="prefix">android:</span><span class="attribute">visibility</span>=<span class="value">"invisible"</span>><span class="tag">&lt;/ImageView></span>
+<span class="lineno"> 45 </span>
+<span class="caretline"><span class="lineno"> 46 </span>        <span class="warning"><span class="tag">&lt;ImageView</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="attribute">
+</span><span class="lineno"> 47 </span><span class="attribute">            </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/InactiveStarImage"</span>
+<span class="lineno"> 48 </span>            <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 49 </span>            <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span></pre>
 
 <span class="location"><a href="../../src/main/res/layout/items.xml">../../src/main/res/layout/items.xml</a>:6</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
 <span class="lineno">  3 </span><span class="attribute">  </span><span class="prefix">xmlns:</span><span class="attribute">android</span>=<span class="value">"http://schemas.android.com/apk/res/android"</span>
@@ -653,22 +656,22 @@ Dismiss</button>            </div>
 <span class="caretline"><span class="lineno"> 5 </span><span class="warning"><span class="tag">&lt;EditText</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/EditListLabelEditText"</span> <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"-"</span> <span class="prefix">android:</span><span class="attribute">inputType</span>=<span class="value">"textEmailSubject"</span> <span class="prefix">android:</span><span class="attribute">singleLine</span>=<span class="value">"true"</span> <span class="prefix">android:</span><span class="attribute">imeOptions</span>=<span class="value">"actionDone"</span> <span class="prefix">android:</span><span class="attribute">lines</span>=<span class="value">"1"</span>><span class="tag">&lt;/EditText></span></span></span>
 <span class="lineno"> 6 </span><span class="tag">&lt;/LinearLayout></span></pre>
 
-<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:5</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
-<span class="lineno">  2 </span><span class="tag">&lt;LinearLayout</span><span class="attribute">
-</span><span class="lineno">  3 </span><span class="attribute">  </span><span class="prefix">xmlns:</span><span class="attribute">android</span>=<span class="value">"http://schemas.android.com/apk/res/android"</span>
-<span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span>>
-<span class="caretline"><span class="lineno">  5 </span><span class="warning"><span class="tag">&lt;LinearLayout</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/LinearLayout01"</span> <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>></span></span>
-<span class="lineno">  6 </span>
-<span class="lineno">  7 </span>    <span class="tag">&lt;EditText</span><span class="attribute">
-</span><span class="lineno">  8 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/AddListEditText"</span></pre>
+<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:7</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
+<span class="lineno">  4 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>
+<span class="lineno">  5 </span>    <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>
+<span class="lineno">  6 </span>    <span class="prefix">android:</span><span class="attribute">orientation</span>=<span class="value">"vertical"</span>>
+<span class="caretline"><span class="lineno">  7 </span><span class="warning"><span class="tag">&lt;LinearLayout</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/LinearLayout01"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno">  8 </span>    <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno">  9 </span>    <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>>
+</pre>
 
-<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:27</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
-<span class="lineno"> 24 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"0"</span>
-<span class="lineno"> 25 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/addListButton"</span>
-<span class="lineno"> 26 </span>        <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"@string/addListButton"</span>><span class="tag">&lt;/Button></span>
-<span class="caretline"><span class="lineno"> 27 </span><span class="tag">&lt;/LinearLayout></span><span class="warning"><span class="tag">&lt;ListView</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span> <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span> <span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/ListsListView"</span>><span class="tag">&lt;/ListView></span></span></span>
-<span class="lineno"> 28 </span>
-<span class="lineno"> 29 </span><span class="tag">&lt;/LinearLayout></span>
+<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:32</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
+<span class="lineno"> 29 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/addListButton"</span>
+<span class="lineno"> 30 </span>        <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"@string/addListButton"</span>><span class="tag">&lt;/Button></span>
+<span class="lineno"> 31 </span><span class="tag">&lt;/LinearLayout></span>
+<span class="caretline"><span class="lineno"> 32 </span>    <span class="warning"><span class="tag">&lt;ListView</span><span class="attribute"> </span><span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 33 </span>        <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"fill_parent"</span>
+<span class="lineno"> 34 </span>        <span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/ListsListView"</span>>
 </pre>
 
 <span class="location"><a href="../../src/main/res/layout/main.xml">../../src/main/res/layout/main.xml</a>:8</span>: <span class="message">Missing content description attribute</span><br /><pre class="errorlines">
@@ -779,7 +782,52 @@ Dismiss</button>            </div>
             </div>
           </section>
 <a name="Performance"></a>
-<a name="UnusedResources"></a>
+<a name="InefficientWeight"></a>
+<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="InefficientWeightCard" style="display: block;">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+  <div class="mdl-card__title">
+    <h2 class="mdl-card__title-text">Inefficient layout weight</h2>
+  </div>
+              <div class="mdl-card__supporting-text">
+<div class="issue">
+<div class="warningslist">
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:21</span>: <span class="message">Use a <code>layout_height</code> of <code>0dp</code> instead of <code>wrap_content</code> for better performance</span><br /><pre class="errorlines">
+<span class="lineno"> 18 </span>    <span class="tag">&lt;TextView</span><span class="attribute">
+</span><span class="lineno"> 19 </span><span class="attribute">        </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/ieText1"</span>
+<span class="lineno"> 20 </span>        <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"0dip"</span>
+<span class="caretline"><span class="lineno"> 21 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 22 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
+<span class="lineno"> 23 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/ietext1"</span>
+<span class="lineno"> 24 </span>        <span class="prefix">android:</span><span class="attribute">paddingLeft</span>=<span class="value">"10dp"</span></pre>
+
+</div>
+<div class="metadata"><div class="explanation" id="explanationInefficientWeight" style="display: none;">
+When only a single widget in a LinearLayout defines a weight, it is more efficient to assign a width/height of <code>0dp</code> to it since it will absorb all the remaining space anyway. With a declared width/height of <code>0dp</code> it does not have to measure its own size first.<br/>Note: This issue has an associated quickfix operation in Android Studio and IntelliJ IDEA.<br>
+To suppress this error, use the issue id "InefficientWeight" as explained in the <a href="#SuppressInfo">Suppressing Warnings and Errors</a> section.<br/>
+<br/></div>
+</div>
+</div>
+<div class="chips">
+<span class="mdl-chip">
+    <span class="mdl-chip__text">InefficientWeight</span>
+</span>
+<span class="mdl-chip">
+    <span class="mdl-chip__text">Performance</span>
+</span>
+<span class="mdl-chip">
+    <span class="mdl-chip__text">Warning</span>
+</span>
+<span class="mdl-chip">
+    <span class="mdl-chip__text">Priority 3/10</span>
+</span>
+</div>
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+<button class="mdl-button mdl-js-button mdl-js-ripple-effect" id="explanationInefficientWeightLink" onclick="reveal('explanationInefficientWeight');">
+Explain</button><button class="mdl-button mdl-js-button mdl-js-ripple-effect" id="InefficientWeightCardLink" onclick="hideid('InefficientWeightCard');">
+Dismiss</button>            </div>
+            </div>
+          </section><a name="UnusedResources"></a>
 <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="UnusedResourcesCard" style="display: block;">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
   <div class="mdl-card__title">
@@ -1030,14 +1078,14 @@ Dismiss</button>            </div>
               <div class="mdl-card__supporting-text">
 <div class="issue">
 <div class="warningslist">
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:39</span>: <span class="message">Missing <code>contentDescription</code> attribute on image</span><br /><pre class="errorlines">
-<span class="lineno"> 36 </span>            <span class="prefix">android:</span><span class="attribute">src</span>=<span class="value">"@drawable/star"</span>
-<span class="lineno"> 37 </span>            <span class="prefix">android:</span><span class="attribute">visibility</span>=<span class="value">"invisible"</span>><span class="tag">&lt;/ImageView></span>
-<span class="lineno"> 38 </span>
-<span class="caretline"><span class="lineno"> 39 </span>        <span class="tag">&lt;</span><span class="warning"><span class="tag">ImageView</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="attribute">
-</span><span class="lineno"> 40 </span><span class="attribute">            </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/InactiveStarImage"</span>
-<span class="lineno"> 41 </span>            <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 42 </span>            <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span></pre>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:46</span>: <span class="message">Missing <code>contentDescription</code> attribute on image</span><br /><pre class="errorlines">
+<span class="lineno"> 43 </span>            <span class="prefix">android:</span><span class="attribute">src</span>=<span class="value">"@drawable/star"</span>
+<span class="lineno"> 44 </span>            <span class="prefix">android:</span><span class="attribute">visibility</span>=<span class="value">"invisible"</span>><span class="tag">&lt;/ImageView></span>
+<span class="lineno"> 45 </span>
+<span class="caretline"><span class="lineno"> 46 </span>        <span class="tag">&lt;</span><span class="warning"><span class="tag">ImageView</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="attribute">
+</span><span class="lineno"> 47 </span><span class="attribute">            </span><span class="prefix">android:</span><span class="attribute">id</span>=<span class="value">"@+id/InactiveStarImage"</span>
+<span class="lineno"> 48 </span>            <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 49 </span>            <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span></pre>
 
 <span class="location"><a href="../../src/main/res/layout/items.xml">../../src/main/res/layout/items.xml</a>:14</span>: <span class="message">Do not set both <code>contentDescription</code> and <code>hint</code>: the <code>contentDescription</code> will mask the <code>hint</code></span><br /><pre class="errorlines">
 <span class="lineno"> 11 </span>                <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
@@ -1048,14 +1096,14 @@ Dismiss</button>            </div>
 <span class="lineno"> 16 </span>                <span class="prefix">android:</span><span class="attribute">imeOptions</span>=<span class="value">"actionDone"</span>
 <span class="lineno"> 17 </span>                <span class="prefix">android:</span><span class="attribute">inputType</span>=<span class="value">"textEmailSubject"</span></pre>
 
-<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:12</span>: <span class="message">Do not set both <code>contentDescription</code> and <code>hint</code>: the <code>contentDescription</code> will mask the <code>hint</code></span><br /><pre class="errorlines">
-<span class="lineno">  9 </span>        <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 10 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>
-<span class="lineno"> 11 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
-<span class="caretline"><span class="lineno"> 12 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/addlistedittext"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 13 </span>        <span class="prefix">android:</span><span class="attribute">hint</span>=<span class="value">"@string/addListHint"</span>
-<span class="lineno"> 14 </span>        <span class="prefix">android:</span><span class="attribute">imeOptions</span>=<span class="value">"actionDone"</span>
-<span class="lineno"> 15 </span>        <span class="prefix">android:</span><span class="attribute">inputType</span>=<span class="value">"textEmailSubject"</span></pre>
+<span class="location"><a href="../../src/main/res/layout/lists.xml">../../src/main/res/layout/lists.xml</a>:16</span>: <span class="message">Do not set both <code>contentDescription</code> and <code>hint</code>: the <code>contentDescription</code> will mask the <code>hint</code></span><br /><pre class="errorlines">
+<span class="lineno"> 13 </span>        <span class="prefix">android:</span><span class="attribute">layout_width</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 14 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>
+<span class="lineno"> 15 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
+<span class="caretline"><span class="lineno"> 16 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/addlistedittext"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 17 </span>        <span class="prefix">android:</span><span class="attribute">hint</span>=<span class="value">"@string/addListHint"</span>
+<span class="lineno"> 18 </span>        <span class="prefix">android:</span><span class="attribute">imeOptions</span>=<span class="value">"actionDone"</span>
+<span class="lineno"> 19 </span>        <span class="prefix">android:</span><span class="attribute">inputType</span>=<span class="value">"textEmailSubject"</span></pre>
 
 </div>
 <div class="metadata"><div class="explanation" id="explanationContentDescription" style="display: none;">
@@ -1281,23 +1329,23 @@ Dismiss</button>            </div>
               <div class="mdl-card__supporting-text">
 <div class="issue">
 <div class="warningslist">
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:17</span>: <span class="message">When you define <code>paddingLeft</code> you should probably also define <code>paddingRight</code> for right-to-left symmetry</span><br /><pre class="errorlines">
-<span class="lineno"> 14 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 15 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
-<span class="lineno"> 16 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/ietext1"</span>
-<span class="caretline"><span class="lineno"> 17 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingLeft</span></span>=<span class="value">"10dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 18 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
-<span class="lineno"> 19 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>
-<span class="lineno"> 20 </span>        <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"@string/name"</span>><span class="tag">&lt;/TextView></span></pre>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:24</span>: <span class="message">When you define <code>paddingLeft</code> you should probably also define <code>paddingRight</code> for right-to-left symmetry</span><br /><pre class="errorlines">
+<span class="lineno"> 21 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 22 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
+<span class="lineno"> 23 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/ietext1"</span>
+<span class="caretline"><span class="lineno"> 24 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingLeft</span></span>=<span class="value">"10dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 25 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
+<span class="lineno"> 26 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>
+<span class="lineno"> 27 </span>        <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"@string/name"</span>><span class="tag">&lt;/TextView></span></pre>
 
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:28</span>: <span class="message">When you define <code>paddingRight</code> you should probably also define <code>paddingLeft</code> for right-to-left symmetry</span><br /><pre class="errorlines">
-<span class="lineno"> 25 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 26 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/starswitcher"</span>
-<span class="lineno"> 27 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
-<span class="caretline"><span class="lineno"> 28 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingRight</span></span>=<span class="value">"2dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 29 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>>
-<span class="lineno"> 30 </span>
-<span class="lineno"> 31 </span>        <span class="tag">&lt;ImageView</span></pre>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:35</span>: <span class="message">When you define <code>paddingRight</code> you should probably also define <code>paddingLeft</code> for right-to-left symmetry</span><br /><pre class="errorlines">
+<span class="lineno"> 32 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 33 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/starswitcher"</span>
+<span class="lineno"> 34 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
+<span class="caretline"><span class="lineno"> 35 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingRight</span></span>=<span class="value">"2dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 36 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>>
+<span class="lineno"> 37 </span>
+<span class="lineno"> 38 </span>        <span class="tag">&lt;ImageView</span></pre>
 
 <span class="location"><a href="../../src/main/res/layout/list_entry.xml">../../src/main/res/layout/list_entry.xml</a>:6</span>: <span class="message">When you define <code>paddingLeft</code> you should probably also define <code>paddingRight</code> for right-to-left symmetry</span><br /><pre class="errorlines">
 <span class="lineno">  3 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>
@@ -1355,23 +1403,23 @@ Dismiss</button>            </div>
               <div class="mdl-card__supporting-text">
 <div class="issue">
 <div class="warningslist">
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:17</span>: <span class="message">Consider adding <code>android:paddingStart="10dp"</code> to better support right-to-left layouts</span><br /><pre class="errorlines">
-<span class="lineno"> 14 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 15 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
-<span class="lineno"> 16 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/ietext1"</span>
-<span class="caretline"><span class="lineno"> 17 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingLeft</span></span>=<span class="value">"10dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 18 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
-<span class="lineno"> 19 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>
-<span class="lineno"> 20 </span>        <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"@string/name"</span>><span class="tag">&lt;/TextView></span></pre>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:24</span>: <span class="message">Consider adding <code>android:paddingStart="10dp"</code> to better support right-to-left layouts</span><br /><pre class="errorlines">
+<span class="lineno"> 21 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 22 </span>        <span class="prefix">android:</span><span class="attribute">layout_weight</span>=<span class="value">"1"</span>
+<span class="lineno"> 23 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/ietext1"</span>
+<span class="caretline"><span class="lineno"> 24 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingLeft</span></span>=<span class="value">"10dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 25 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
+<span class="lineno"> 26 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>
+<span class="lineno"> 27 </span>        <span class="prefix">android:</span><span class="attribute">text</span>=<span class="value">"@string/name"</span>><span class="tag">&lt;/TextView></span></pre>
 
-<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:28</span>: <span class="message">Consider adding <code>android:paddingEnd="2dp"</code> to better support right-to-left layouts</span><br /><pre class="errorlines">
-<span class="lineno"> 25 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
-<span class="lineno"> 26 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/starswitcher"</span>
-<span class="lineno"> 27 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
-<span class="caretline"><span class="lineno"> 28 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingRight</span></span>=<span class="value">"2dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 29 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>>
-<span class="lineno"> 30 </span>
-<span class="lineno"> 31 </span>        <span class="tag">&lt;ImageView</span></pre>
+<span class="location"><a href="../../src/main/res/layout/item_entry.xml">../../src/main/res/layout/item_entry.xml</a>:35</span>: <span class="message">Consider adding <code>android:paddingEnd="2dp"</code> to better support right-to-left layouts</span><br /><pre class="errorlines">
+<span class="lineno"> 32 </span>        <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"wrap_content"</span>
+<span class="lineno"> 33 </span>        <span class="prefix">android:</span><span class="attribute">contentDescription</span>=<span class="value">"@string/starswitcher"</span>
+<span class="lineno"> 34 </span>        <span class="prefix">android:</span><span class="attribute">paddingTop</span>=<span class="value">"10dp"</span>
+<span class="caretline"><span class="lineno"> 35 </span>        <span class="warning"><span class="prefix">android:</span><span class="attribute">paddingRight</span></span>=<span class="value">"2dp"</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 36 </span>        <span class="prefix">android:</span><span class="attribute">paddingBottom</span>=<span class="value">"10dp"</span>>
+<span class="lineno"> 37 </span>
+<span class="lineno"> 38 </span>        <span class="tag">&lt;ImageView</span></pre>
 
 <span class="location"><a href="../../src/main/res/layout/list_entry.xml">../../src/main/res/layout/list_entry.xml</a>:6</span>: <span class="message">Consider adding <code>android:paddingStart="10dp"</code> to better support right-to-left layouts</span><br /><pre class="errorlines">
 <span class="lineno">  3 </span>  <span class="prefix">android:</span><span class="attribute">layout_height</span>=<span class="value">"fill_parent"</span>

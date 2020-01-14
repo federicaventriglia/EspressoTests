@@ -33,7 +33,7 @@
             column="19"/>
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/lists.xml"
-            line="5"
+            line="7"
             column="15"/>
     </issue>
 
@@ -83,7 +83,7 @@
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/lists.xml"
-            line="18"
+            line="22"
             column="9"/>
     </issue>
 
@@ -207,12 +207,12 @@
         priority="5"
         summary="content description attribute is missing"
         explanation="contentDescription attribute may be used as an alternative to id attribute for element matching"
-        errorLine1="  &lt;View android:background=&quot;#ff1111ee&quot; android:layout_width=&quot;2dp&quot; android:layout_height=&quot;fill_parent&quot; android:visibility=&quot;invisible&quot; android:id=&quot;@+id/SortedMarker&quot;>&lt;/View>"
-        errorLine2="  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        errorLine1="    &lt;View"
+        errorLine2="    ^">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="9"
-            column="3"/>
+            line="11"
+            column="5"/>
     </issue>
 
     <issue
@@ -227,7 +227,7 @@
         errorLine2="        ^">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="39"
+            line="46"
             column="9"/>
     </issue>
 
@@ -303,11 +303,11 @@
         priority="5"
         summary="content description attribute is missing"
         explanation="contentDescription attribute may be used as an alternative to id attribute for element matching"
-        errorLine1="&lt;LinearLayout android:id=&quot;@+id/LinearLayout01&quot; android:layout_height=&quot;wrap_content&quot; android:layout_width=&quot;fill_parent&quot;>"
+        errorLine1="&lt;LinearLayout android:id=&quot;@+id/LinearLayout01&quot;"
         errorLine2="^">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/lists.xml"
-            line="5"
+            line="7"
             column="1"/>
     </issue>
 
@@ -319,12 +319,12 @@
         priority="5"
         summary="content description attribute is missing"
         explanation="contentDescription attribute may be used as an alternative to id attribute for element matching"
-        errorLine1="&lt;/LinearLayout>&lt;ListView android:layout_height=&quot;wrap_content&quot; android:layout_width=&quot;fill_parent&quot; android:id=&quot;@+id/ListsListView&quot;>&lt;/ListView>"
-        errorLine2="               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        errorLine1="    &lt;ListView android:layout_height=&quot;wrap_content&quot;"
+        errorLine2="    ^">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/lists.xml"
-            line="27"
-            column="16"/>
+            line="32"
+            column="5"/>
     </issue>
 
     <issue
@@ -377,6 +377,22 @@
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/AndroidManifest.xml"
             line="7"
             column="3"/>
+    </issue>
+
+    <issue
+        id="InefficientWeight"
+        severity="Warning"
+        message="Use a `layout_height` of `0dp` instead of `wrap_content` for better performance"
+        category="Performance"
+        priority="3"
+        summary="Inefficient layout weight"
+        explanation="When only a single widget in a LinearLayout defines a weight, it is more efficient to assign a width/height of `0dp` to it since it will absorb all the remaining space anyway. With a declared width/height of `0dp` it does not have to measure its own size first."
+        errorLine1="        android:layout_height=&quot;wrap_content&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
+            line="21"
+            column="9"/>
     </issue>
 
     <issue
@@ -481,7 +497,7 @@
         errorLine2="         ~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="39"
+            line="46"
             column="10"/>
     </issue>
 
@@ -513,7 +529,7 @@
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/lists.xml"
-            line="12"
+            line="16"
             column="9"/>
     </issue>
 
@@ -643,7 +659,7 @@
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="17"
+            line="24"
             column="9"/>
     </issue>
 
@@ -659,7 +675,7 @@
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="28"
+            line="35"
             column="9"/>
     </issue>
 
@@ -707,7 +723,7 @@
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="17"
+            line="24"
             column="9"/>
     </issue>
 
@@ -723,7 +739,7 @@
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/federicaventriglia/Documents/Universita/TESI/EspressoTests/EspressoTests/simply-do-app/app/src/main/res/layout/item_entry.xml"
-            line="28"
+            line="35"
             column="9"/>
     </issue>
 

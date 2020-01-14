@@ -54,8 +54,7 @@ public class ChangeMetricInputC4 {
         appCompatSpinner.perform(click());
 
         DataInteraction appCompatTextView = onData(anything())
-                .inAdapterView(childAtPosition(
-                        withClassName(is("android.widget.PopupWindow$PopupBackgroundView")),
+                .inAdapterView),
                         0))
                 .atPosition(1);
         appCompatTextView.perform(click());
@@ -81,8 +80,7 @@ public class ChangeMetricInputC4 {
         appCompatSpinner2.perform(click());
 
         DataInteraction appCompatTextView2 = onData(anything())
-                .inAdapterView(childAtPosition(
-                        withClassName(is("android.widget.PopupWindow$PopupBackgroundView")),
+                .inAdapterView),
                         0))
                 .atPosition(1);
         appCompatTextView2.perform(click());

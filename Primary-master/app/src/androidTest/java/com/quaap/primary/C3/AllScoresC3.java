@@ -42,7 +42,7 @@ public class AllScoresC3 {
 
     @Test
     public void allScoresC3() {
-        openActionBarOverflowOrOptionsMenu(getInstrumentation().getTargetContext());
+        //openActionBarOverflowOrOptionsMenu(getInstrumentation().getTargetContext());
 
         ViewInteraction linearLayout = onView(
                 allOf(ViewMatchers.withId(R.id.content),

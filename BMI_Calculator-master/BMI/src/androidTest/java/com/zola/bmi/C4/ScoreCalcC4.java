@@ -41,66 +41,66 @@ public class ScoreCalcC4 {
     @Test
     public void scoreCalcC4() {
         ViewInteraction appCompatEditText = onView(
-                allOf(ViewMatchers.withId(R.id.weightNum),
+                allOf(ViewMatchers.withId(R.id.weightNum), withContentDescription("weightNum"),
                         childAtPosition(
-                                allOf(
+                                allOf(withContentDescription("relativeLayout"),
                                         childAtPosition(
-                                                allOf(withId(R.id.container)),
+                                                allOf(withId(R.id.container), withContentDescription("frameLayout")),
                                                 0)),
                                 0),
                         isDisplayed()));
         appCompatEditText.perform(replaceText("100"), closeSoftKeyboard());
 
         ViewInteraction appCompatEditText2 = onView(
-                allOf(withId(R.id.heightNum),
+                allOf(withId(R.id.heightNum), withContentDescription("heightNum"),
                         childAtPosition(
-                                allOf(
+                                allOf(withContentDescription("relativeLayout"),
                                         childAtPosition(
-                                                allOf(withId(R.id.container)),
+                                                allOf(withId(R.id.container), withContentDescription("frameLayout")),
                                                 0)),
                                 1),
                         isDisplayed()));
         appCompatEditText2.perform(replaceText("190"), closeSoftKeyboard());
 
         ViewInteraction appCompatButton = onView(
-                allOf(withId(R.id.calcBMI), withText("Calculate BMI"),
+                allOf(withId(R.id.calcBMI), withText("Calculate BMI"), withContentDescription("calcBMI"),
                         childAtPosition(
-                                allOf(
+                                allOf(withContentDescription("relativeLayout"),
                                         childAtPosition(
-                                                allOf(withId(R.id.container)),
+                                                allOf(withId(R.id.container), withContentDescription("frameLayout")),
                                                 0)),
                                 2),
                         isDisplayed()));
         appCompatButton.perform(click());
 
         ViewInteraction editText = onView(
-                allOf(withId(R.id.weightNum), withText("100"),
+                allOf(withId(R.id.weightNum), withText("100"), withContentDescription("weightNum"),
                         childAtPosition(
-                                allOf(
+                                allOf(withContentDescription("relativeLayout"),
                                         childAtPosition(
-                                                allOf(withId(R.id.container)),
+                                                allOf(withId(R.id.container), withContentDescription("frameLayout")),
                                                 0)),
                                 1),
                         isDisplayed()));
         editText.check(matches(withText("100")));
 
         ViewInteraction editText2 = onView(
-                allOf(withId(R.id.heightNum), withText("190"),
+                allOf(withId(R.id.heightNum), withText("190"), withContentDescription("heightNum"),
                         childAtPosition(
-                                allOf(
+                                allOf(withContentDescription("relativeLayout"),
                                         childAtPosition(
-                                                allOf(withId(R.id.container)),
+                                                allOf(withId(R.id.container), withContentDescription("frameLayout")),
                                                 0)),
                                 3),
                         isDisplayed()));
         editText2.check(matches(withText("190")));
 
         ViewInteraction textView = onView(
-                allOf(withId(R.id.resultLabel), withText("BMI Score = 27.7\nYou are overweight"),
+                allOf(withId(R.id.resultLabel), withText("BMI Score = 27.7\nYou are overweight"), withContentDescription("resultLbl"),
                         childAtPosition(
-                                allOf(
+                                allOf(withContentDescription("relativeLayout"),
                                         childAtPosition(
-                                                allOf(withId(R.id.container)),
+                                                allOf(withId(R.id.container), withContentDescription("frameLayout")),
                                                 0)),
                                 5),
                         isDisplayed()));
